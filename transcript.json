@@ -1,0 +1,6956 @@
+{
+  "id": "ece98ce2-99d2-497d-b7a5-8d7c93a6a6e0",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/1b736d2a-ea6e-49d4-9016-8c21b74ba63b",
+  "text": "Thank you, Mr. Secretary General, UNICEF Executive Director, and all the excellencies and distinguished guests from across the world. My name is Kim Namjoon, also known as rm, the leader of the group bts. It is an incredible honor to be invited to an occasion with such significance for today's young generation. Last November, BTS launched the Love My Symph campaign with unicef. Building on our belief that true love first begins with loving myself, we've been partnering with UNICEF's End Violence Program to protect children and young people all over the world from violence. And our fans have become a major part of this campaign. With their action and with their enthusiasm, we truly have the best fans in the world. And I'd like to begin by talking about myself. I was born in Ilsan, a city near Seoul, South Korea. It is a really beautiful place with a lake, hills, and even an annual flower festival. I spent a very happy childhood there and I was just an ordinary boy. I used to look up at the night sky, wonder and I used to dream the dreams of a boy. I used to imagine that I was a superhero who could save the world. And in an intro to one of our early albums, there's a line that says. My heart stopped when I was maybe 9 or 10. Looking back, I think that's when I began to worry about what other people thought of me and starting seeing myself through their eyes. I stopped looking up at the night skies, the stars. I stopped daydreaming. Instead, I just tried to jam myself into the malls that other people made. Soon I began to shut out my own voice and started to listen to the voices of others. No one called out my name. Neither did I. My heart stopped and my eyes closed shut. So like this I. We all lost our names. We became like ghosts. But I had one century and that was music. There was a small voice inside of me that said, wake up man and listen to yourself. But it took me quite a long time to hear music calling my real name. Even after making the decision to join bts, there were a lot of hurdles. Some people might not believe, but most people thought we were hopeless. And sometimes I just wanted to quit. But I think I was very lucky that I didn't give it all up. And I'm sure that I. And we will keep stumbling and falling like this. BTS has become artists, performing in those huge stadiums and selling millions of albums right now. But I am still an ordinary 24 year old guy. If there's anything that I've achieved, it was only possible that I have my other bts. Members right by my side. And because of the love and the support that our army fans all over the world made for us. And maybe I made a mistake yesterday, but yesterday's me is still me. Today I am who I am with all, all of my faults and my mistakes. Tomorrow, I might be a tiny bit wiser. And that would be me too. These faults and mistakes are what I am. Making up the brightest stars in the constellation of my life. I have come to love myself for who I am, for who I was, and for who I hope to become. I'd like to say the one last thing. After releasing our Love albums and launching the Love Myself campaign, we started to hear remarkable stories from our fans all over the world. How our message helped them overcome their hardships in life and start loving themselves. Those stories constantly remind us of of our responsibility. So let's take all one more step. We have learned to love ourselves. So now I urge you to speak yourself. I like to ask all of you. What is your name? What excites you and makes your heart beat? Tell me your story. I want to hear your voice. I want to hear your conviction. No matter who you are, where you're from, your skin color, your gender identity, just speak yourself. Find your name and find your voice by speaking yourself. I'm Kim Nam Joon and also RM of bts. I'm an idol and I'm an artist from a small town in Korea. Like most people, I've made many and plenty mistakes in my life. I have many faults and I have many more fears. But I'm going to embrace myself as hard as I can. And I'm starting to love myself gradually, just little by little. What is your name? Speak yourself. Thank you very much.",
+  "words": [
+    {
+      "text": "Thank",
+      "start": 1760,
+      "end": 1960,
+      "confidence": 0.9953613,
+      "speaker": null
+    },
+    {
+      "text": "you,",
+      "start": 1960,
+      "end": 2240,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "Mr.",
+      "start": 2240,
+      "end": 2640,
+      "confidence": 0.99658,
+      "speaker": null
+    },
+    {
+      "text": "Secretary",
+      "start": 2640,
+      "end": 3120,
+      "confidence": 0.96118164,
+      "speaker": null
+    },
+    {
+      "text": "General,",
+      "start": 3120,
+      "end": 3440,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "UNICEF",
+      "start": 3840,
+      "end": 4560,
+      "confidence": 0.99153644,
+      "speaker": null
+    },
+    {
+      "text": "Executive",
+      "start": 4560,
+      "end": 4880,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "Director,",
+      "start": 4960,
+      "end": 5360,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 5760,
+      "end": 6080,
+      "confidence": 0.80810547,
+      "speaker": null
+    },
+    {
+      "text": "all",
+      "start": 6080,
+      "end": 6240,
+      "confidence": 0.9951172,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 6240,
+      "end": 6360,
+      "confidence": 0.9707031,
+      "speaker": null
+    },
+    {
+      "text": "excellencies",
+      "start": 6360,
+      "end": 6880,
+      "confidence": 0.9205322,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 6880,
+      "end": 7080,
+      "confidence": 0.953125,
+      "speaker": null
+    },
+    {
+      "text": "distinguished",
+      "start": 7080,
+      "end": 7560,
+      "confidence": 0.9984375,
+      "speaker": null
+    },
+    {
+      "text": "guests",
+      "start": 7560,
+      "end": 7840,
+      "confidence": 0.98063153,
+      "speaker": null
+    },
+    {
+      "text": "from",
+      "start": 7840,
+      "end": 8000,
+      "confidence": 0.9941406,
+      "speaker": null
+    },
+    {
+      "text": "across",
+      "start": 8000,
+      "end": 8280,
+      "confidence": 0.91748047,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 8280,
+      "end": 8480,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "world.",
+      "start": 8480,
+      "end": 8720,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "My",
+      "start": 10240,
+      "end": 10520,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "name",
+      "start": 10520,
+      "end": 10680,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 10680,
+      "end": 10840,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "Kim",
+      "start": 10840,
+      "end": 11120,
+      "confidence": 0.97875977,
+      "speaker": null
+    },
+    {
+      "text": "Namjoon,",
+      "start": 11120,
+      "end": 11800,
+      "confidence": 0.84716797,
+      "speaker": null
+    },
+    {
+      "text": "also",
+      "start": 11800,
+      "end": 12120,
+      "confidence": 0.99609375,
+      "speaker": null
+    },
+    {
+      "text": "known",
+      "start": 12120,
+      "end": 12320,
+      "confidence": 0.9941406,
+      "speaker": null
+    },
+    {
+      "text": "as",
+      "start": 12320,
+      "end": 12480,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "rm,",
+      "start": 12480,
+      "end": 13040,
+      "confidence": 0.9951172,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 13040,
+      "end": 13280,
+      "confidence": 0.9873047,
+      "speaker": null
+    },
+    {
+      "text": "leader",
+      "start": 13280,
+      "end": 13440,
+      "confidence": 0.8979492,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 13440,
+      "end": 13640,
+      "confidence": 0.9770508,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 13640,
+      "end": 13760,
+      "confidence": 0.9707031,
+      "speaker": null
+    },
+    {
+      "text": "group",
+      "start": 13760,
+      "end": 13920,
+      "confidence": 0.9892578,
+      "speaker": null
+    },
+    {
+      "text": "bts.",
+      "start": 13920,
+      "end": 14400,
+      "confidence": 0.9992676,
+      "speaker": null
+    },
+    {
+      "text": "It",
+      "start": 15360,
+      "end": 15600,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 15600,
+      "end": 15720,
+      "confidence": 0.99121094,
+      "speaker": null
+    },
+    {
+      "text": "an",
+      "start": 15720,
+      "end": 15880,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "incredible",
+      "start": 15880,
+      "end": 16319,
+      "confidence": 0.9991862,
+      "speaker": null
+    },
+    {
+      "text": "honor",
+      "start": 16319,
+      "end": 16600,
+      "confidence": 0.8330078,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 16600,
+      "end": 16720,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "be",
+      "start": 16720,
+      "end": 16840,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "invited",
+      "start": 16840,
+      "end": 17240,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 17240,
+      "end": 17480,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "an",
+      "start": 17480,
+      "end": 17640,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "occasion",
+      "start": 17640,
+      "end": 18240,
+      "confidence": 0.99934894,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 18240,
+      "end": 18560,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "such",
+      "start": 18560,
+      "end": 18880,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "significance",
+      "start": 18880,
+      "end": 19520,
+      "confidence": 0.8391113,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 19520,
+      "end": 19840,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "today's",
+      "start": 19840,
+      "end": 20240,
+      "confidence": 0.9991862,
+      "speaker": null
+    },
+    {
+      "text": "young",
+      "start": 20240,
+      "end": 20400,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "generation.",
+      "start": 20400,
+      "end": 20960,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "Last",
+      "start": 22080,
+      "end": 22400,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "November,",
+      "start": 22400,
+      "end": 23040,
+      "confidence": 0.9959717,
+      "speaker": null
+    },
+    {
+      "text": "BTS",
+      "start": 23280,
+      "end": 23840,
+      "confidence": 0.998291,
+      "speaker": null
+    },
+    {
+      "text": "launched",
+      "start": 23840,
+      "end": 24360,
+      "confidence": 0.94799805,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 24360,
+      "end": 24520,
+      "confidence": 0.9868164,
+      "speaker": null
+    },
+    {
+      "text": "Love",
+      "start": 24520,
+      "end": 24760,
+      "confidence": 0.34936523,
+      "speaker": null
+    },
+    {
+      "text": "My",
+      "start": 24760,
+      "end": 25000,
+      "confidence": 0.8642578,
+      "speaker": null
+    },
+    {
+      "text": "Symph",
+      "start": 25000,
+      "end": 25440,
+      "confidence": 0.5341797,
+      "speaker": null
+    },
+    {
+      "text": "campaign",
+      "start": 25440,
+      "end": 25760,
+      "confidence": 0.99658203,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 25760,
+      "end": 26040,
+      "confidence": 0.99316406,
+      "speaker": null
+    },
+    {
+      "text": "unicef.",
+      "start": 26040,
+      "end": 26720,
+      "confidence": 0.93375653,
+      "speaker": null
+    },
+    {
+      "text": "Building",
+      "start": 27210,
+      "end": 27410,
+      "confidence": 0.9560547,
+      "speaker": null
+    },
+    {
+      "text": "on",
+      "start": 27410,
+      "end": 27650,
+      "confidence": 0.94091797,
+      "speaker": null
+    },
+    {
+      "text": "our",
+      "start": 27650,
+      "end": 27850,
+      "confidence": 0.99560547,
+      "speaker": null
+    },
+    {
+      "text": "belief",
+      "start": 27850,
+      "end": 28250,
+      "confidence": 0.9963379,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 28250,
+      "end": 28570,
+      "confidence": 0.99365234,
+      "speaker": null
+    },
+    {
+      "text": "true",
+      "start": 28650,
+      "end": 29090,
+      "confidence": 0.91430664,
+      "speaker": null
+    },
+    {
+      "text": "love",
+      "start": 29090,
+      "end": 29450,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "first",
+      "start": 29610,
+      "end": 29970,
+      "confidence": 0.9926758,
+      "speaker": null
+    },
+    {
+      "text": "begins",
+      "start": 29970,
+      "end": 30530,
+      "confidence": 0.99820966,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 30530,
+      "end": 30770,
+      "confidence": 0.9946289,
+      "speaker": null
+    },
+    {
+      "text": "loving",
+      "start": 30770,
+      "end": 31050,
+      "confidence": 0.9992676,
+      "speaker": null
+    },
+    {
+      "text": "myself,",
+      "start": 31050,
+      "end": 31530,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "we've",
+      "start": 32410,
+      "end": 32810,
+      "confidence": 0.9016927,
+      "speaker": null
+    },
+    {
+      "text": "been",
+      "start": 32810,
+      "end": 32970,
+      "confidence": 0.59228516,
+      "speaker": null
+    },
+    {
+      "text": "partnering",
+      "start": 32970,
+      "end": 33410,
+      "confidence": 0.99934894,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 33410,
+      "end": 33610,
+      "confidence": 0.99658203,
+      "speaker": null
+    },
+    {
+      "text": "UNICEF's",
+      "start": 33610,
+      "end": 34370,
+      "confidence": 0.91357,
+      "speaker": null
+    },
+    {
+      "text": "End",
+      "start": 34370,
+      "end": 34530,
+      "confidence": 0.59472656,
+      "speaker": null
+    },
+    {
+      "text": "Violence",
+      "start": 34530,
+      "end": 35010,
+      "confidence": 0.986084,
+      "speaker": null
+    },
+    {
+      "text": "Program",
+      "start": 35010,
+      "end": 35370,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 35930,
+      "end": 36210,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "protect",
+      "start": 36210,
+      "end": 36610,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "children",
+      "start": 36610,
+      "end": 36970,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 37050,
+      "end": 37330,
+      "confidence": 0.99658203,
+      "speaker": null
+    },
+    {
+      "text": "young",
+      "start": 37330,
+      "end": 37570,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "people",
+      "start": 37570,
+      "end": 37890,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "all",
+      "start": 37890,
+      "end": 38130,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "over",
+      "start": 38130,
+      "end": 38290,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 38290,
+      "end": 38450,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "world",
+      "start": 38450,
+      "end": 38650,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "from",
+      "start": 38650,
+      "end": 38850,
+      "confidence": 0.9951172,
+      "speaker": null
+    },
+    {
+      "text": "violence.",
+      "start": 38850,
+      "end": 39290,
+      "confidence": 0.8395996,
+      "speaker": null
+    },
+    {
+      "text": "And",
+      "start": 40410,
+      "end": 40730,
+      "confidence": 0.9145508,
+      "speaker": null
+    },
+    {
+      "text": "our",
+      "start": 40730,
+      "end": 40970,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "fans",
+      "start": 40970,
+      "end": 41370,
+      "confidence": 0.98999023,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 41610,
+      "end": 41890,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "become",
+      "start": 41890,
+      "end": 42130,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 42130,
+      "end": 42370,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "major",
+      "start": 42370,
+      "end": 42649,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "part",
+      "start": 42649,
+      "end": 42929,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 42929,
+      "end": 43050,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "this",
+      "start": 43050,
+      "end": 43210,
+      "confidence": 0.98779297,
+      "speaker": null
+    },
+    {
+      "text": "campaign.",
+      "start": 43210,
+      "end": 43530,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "With",
+      "start": 43770,
+      "end": 44050,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "their",
+      "start": 44050,
+      "end": 44250,
+      "confidence": 0.99658203,
+      "speaker": null
+    },
+    {
+      "text": "action",
+      "start": 44250,
+      "end": 44570,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 44810,
+      "end": 45090,
+      "confidence": 0.9921875,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 45090,
+      "end": 45250,
+      "confidence": 0.9321289,
+      "speaker": null
+    },
+    {
+      "text": "their",
+      "start": 45250,
+      "end": 45490,
+      "confidence": 0.99121094,
+      "speaker": null
+    },
+    {
+      "text": "enthusiasm,",
+      "start": 45490,
+      "end": 46410,
+      "confidence": 0.99625653,
+      "speaker": null
+    },
+    {
+      "text": "we",
+      "start": 46970,
+      "end": 47290,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "truly",
+      "start": 47290,
+      "end": 47770,
+      "confidence": 0.99820966,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 47770,
+      "end": 48090,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 48170,
+      "end": 48410,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "best",
+      "start": 48410,
+      "end": 48610,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "fans",
+      "start": 48610,
+      "end": 48930,
+      "confidence": 0.9963379,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 48930,
+      "end": 49090,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 49090,
+      "end": 49210,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "world.",
+      "start": 49210,
+      "end": 49450,
+      "confidence": 0.99609375,
+      "speaker": null
+    },
+    {
+      "text": "And",
+      "start": 52340,
+      "end": 52420,
+      "confidence": 0.96533203,
+      "speaker": null
+    },
+    {
+      "text": "I'd",
+      "start": 52420,
+      "end": 52620,
+      "confidence": 0.8486328,
+      "speaker": null
+    },
+    {
+      "text": "like",
+      "start": 52620,
+      "end": 52740,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 52740,
+      "end": 52860,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "begin",
+      "start": 52860,
+      "end": 53220,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "by",
+      "start": 53220,
+      "end": 53500,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "talking",
+      "start": 53500,
+      "end": 53780,
+      "confidence": 0.92578125,
+      "speaker": null
+    },
+    {
+      "text": "about",
+      "start": 53780,
+      "end": 54020,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "myself.",
+      "start": 54020,
+      "end": 54580,
+      "confidence": 0.99658203,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 56180,
+      "end": 56460,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 56460,
+      "end": 56620,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "born",
+      "start": 56620,
+      "end": 56820,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 56820,
+      "end": 56940,
+      "confidence": 0.9897461,
+      "speaker": null
+    },
+    {
+      "text": "Ilsan,",
+      "start": 56940,
+      "end": 57620,
+      "confidence": 0.79451495,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 57780,
+      "end": 58060,
+      "confidence": 0.96240234,
+      "speaker": null
+    },
+    {
+      "text": "city",
+      "start": 58060,
+      "end": 58300,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "near",
+      "start": 58300,
+      "end": 58580,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "Seoul,",
+      "start": 58580,
+      "end": 59140,
+      "confidence": 0.9376628,
+      "speaker": null
+    },
+    {
+      "text": "South",
+      "start": 59540,
+      "end": 59860,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "Korea.",
+      "start": 59860,
+      "end": 60340,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "It",
+      "start": 61300,
+      "end": 61580,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 61580,
+      "end": 61740,
+      "confidence": 0.9794922,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 61740,
+      "end": 61860,
+      "confidence": 0.9765625,
+      "speaker": null
+    },
+    {
+      "text": "really",
+      "start": 61860,
+      "end": 62060,
+      "confidence": 0.99316406,
+      "speaker": null
+    },
+    {
+      "text": "beautiful",
+      "start": 62060,
+      "end": 62580,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "place",
+      "start": 62580,
+      "end": 62900,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 62980,
+      "end": 63260,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 63260,
+      "end": 63460,
+      "confidence": 0.98583984,
+      "speaker": null
+    },
+    {
+      "text": "lake,",
+      "start": 63460,
+      "end": 63860,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "hills,",
+      "start": 64020,
+      "end": 64740,
+      "confidence": 0.84244794,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 64900,
+      "end": 65300,
+      "confidence": 0.99560547,
+      "speaker": null
+    },
+    {
+      "text": "even",
+      "start": 65300,
+      "end": 65620,
+      "confidence": 0.9951172,
+      "speaker": null
+    },
+    {
+      "text": "an",
+      "start": 65620,
+      "end": 65820,
+      "confidence": 0.984375,
+      "speaker": null
+    },
+    {
+      "text": "annual",
+      "start": 65820,
+      "end": 66100,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "flower",
+      "start": 66100,
+      "end": 66460,
+      "confidence": 0.9160156,
+      "speaker": null
+    },
+    {
+      "text": "festival.",
+      "start": 66460,
+      "end": 66980,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 67300,
+      "end": 67620,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "spent",
+      "start": 67620,
+      "end": 68020,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 68020,
+      "end": 68300,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "very",
+      "start": 68300,
+      "end": 68579,
+      "confidence": 0.98779297,
+      "speaker": null
+    },
+    {
+      "text": "happy",
+      "start": 68579,
+      "end": 68900,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "childhood",
+      "start": 68900,
+      "end": 69420,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "there",
+      "start": 69420,
+      "end": 69700,
+      "confidence": 0.99658203,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 69860,
+      "end": 70140,
+      "confidence": 0.98828125,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 70140,
+      "end": 70300,
+      "confidence": 0.98339844,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 70300,
+      "end": 70500,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "just",
+      "start": 70500,
+      "end": 70820,
+      "confidence": 0.9707031,
+      "speaker": null
+    },
+    {
+      "text": "an",
+      "start": 70900,
+      "end": 71180,
+      "confidence": 0.9926758,
+      "speaker": null
+    },
+    {
+      "text": "ordinary",
+      "start": 71180,
+      "end": 71620,
+      "confidence": 0.93811035,
+      "speaker": null
+    },
+    {
+      "text": "boy.",
+      "start": 71620,
+      "end": 72020,
+      "confidence": 0.9916992,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 73220,
+      "end": 73540,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "used",
+      "start": 73540,
+      "end": 73780,
+      "confidence": 0.99658203,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 73780,
+      "end": 73980,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "look",
+      "start": 73980,
+      "end": 74140,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "up",
+      "start": 74140,
+      "end": 74300,
+      "confidence": 0.9941406,
+      "speaker": null
+    },
+    {
+      "text": "at",
+      "start": 74300,
+      "end": 74420,
+      "confidence": 0.99658203,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 74420,
+      "end": 74540,
+      "confidence": 0.9946289,
+      "speaker": null
+    },
+    {
+      "text": "night",
+      "start": 74540,
+      "end": 74740,
+      "confidence": 0.9301758,
+      "speaker": null
+    },
+    {
+      "text": "sky,",
+      "start": 74740,
+      "end": 75140,
+      "confidence": 0.9992676,
+      "speaker": null
+    },
+    {
+      "text": "wonder",
+      "start": 75140,
+      "end": 75620,
+      "confidence": 0.9719238,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 76500,
+      "end": 76780,
+      "confidence": 0.98095703,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 76780,
+      "end": 76980,
+      "confidence": 0.9873047,
+      "speaker": null
+    },
+    {
+      "text": "used",
+      "start": 76980,
+      "end": 77220,
+      "confidence": 0.98583984,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 77220,
+      "end": 77420,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "dream",
+      "start": 77420,
+      "end": 77860,
+      "confidence": 0.9329427,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 77860,
+      "end": 78190,
+      "confidence": 0.5727539,
+      "speaker": null
+    },
+    {
+      "text": "dreams",
+      "start": 78340,
+      "end": 78580,
+      "confidence": 0.9805908,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 78580,
+      "end": 78700,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 78700,
+      "end": 78820,
+      "confidence": 0.99609375,
+      "speaker": null
+    },
+    {
+      "text": "boy.",
+      "start": 78820,
+      "end": 79140,
+      "confidence": 0.998291,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 80340,
+      "end": 80660,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "used",
+      "start": 80660,
+      "end": 80900,
+      "confidence": 0.99609375,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 80900,
+      "end": 81220,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "imagine",
+      "start": 81300,
+      "end": 81940,
+      "confidence": 0.8128255,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 82020,
+      "end": 82300,
+      "confidence": 0.9838867,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 82300,
+      "end": 82420,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 82420,
+      "end": 82540,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 82540,
+      "end": 82700,
+      "confidence": 0.99365234,
+      "speaker": null
+    },
+    {
+      "text": "superhero",
+      "start": 82700,
+      "end": 83300,
+      "confidence": 0.8510742,
+      "speaker": null
+    },
+    {
+      "text": "who",
+      "start": 83300,
+      "end": 83420,
+      "confidence": 0.99121094,
+      "speaker": null
+    },
+    {
+      "text": "could",
+      "start": 83420,
+      "end": 83580,
+      "confidence": 0.98291016,
+      "speaker": null
+    },
+    {
+      "text": "save",
+      "start": 83580,
+      "end": 83780,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 83780,
+      "end": 83900,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "world.",
+      "start": 83900,
+      "end": 84180,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "And",
+      "start": 86340,
+      "end": 86660,
+      "confidence": 0.84228516,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 86660,
+      "end": 86860,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "an",
+      "start": 86860,
+      "end": 87020,
+      "confidence": 0.98583984,
+      "speaker": null
+    },
+    {
+      "text": "intro",
+      "start": 87020,
+      "end": 87380,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 87380,
+      "end": 87580,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "one",
+      "start": 87580,
+      "end": 87740,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 87740,
+      "end": 87900,
+      "confidence": 0.99560547,
+      "speaker": null
+    },
+    {
+      "text": "our",
+      "start": 87900,
+      "end": 88060,
+      "confidence": 0.9667969,
+      "speaker": null
+    },
+    {
+      "text": "early",
+      "start": 88060,
+      "end": 88300,
+      "confidence": 0.9848633,
+      "speaker": null
+    },
+    {
+      "text": "albums,",
+      "start": 88300,
+      "end": 88980,
+      "confidence": 0.9855957,
+      "speaker": null
+    },
+    {
+      "text": "there's",
+      "start": 89300,
+      "end": 89780,
+      "confidence": 0.8310547,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 89780,
+      "end": 89940,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "line",
+      "start": 89940,
+      "end": 90220,
+      "confidence": 0.97216797,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 90220,
+      "end": 90500,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "says.",
+      "start": 90500,
+      "end": 90820,
+      "confidence": 0.88671875,
+      "speaker": null
+    },
+    {
+      "text": "My",
+      "start": 91380,
+      "end": 91700,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "heart",
+      "start": 91700,
+      "end": 91980,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "stopped",
+      "start": 91980,
+      "end": 92500,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "when",
+      "start": 92500,
+      "end": 92700,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 92700,
+      "end": 92860,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 92860,
+      "end": 93140,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "maybe",
+      "start": 93620,
+      "end": 94100,
+      "confidence": 0.99780273,
+      "speaker": null
+    },
+    {
+      "text": "9",
+      "start": 94100,
+      "end": 94299,
+      "confidence": 0.99902,
+      "speaker": null
+    },
+    {
+      "text": "or",
+      "start": 94299,
+      "end": 94499,
+      "confidence": 0.9951172,
+      "speaker": null
+    },
+    {
+      "text": "10.",
+      "start": 94499,
+      "end": 94820,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "Looking",
+      "start": 96180,
+      "end": 96540,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "back,",
+      "start": 96540,
+      "end": 96900,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 98100,
+      "end": 98380,
+      "confidence": 0.99658203,
+      "speaker": null
+    },
+    {
+      "text": "think",
+      "start": 98380,
+      "end": 98580,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "that's",
+      "start": 98580,
+      "end": 98900,
+      "confidence": 0.99625653,
+      "speaker": null
+    },
+    {
+      "text": "when",
+      "start": 98900,
+      "end": 99020,
+      "confidence": 0.99560547,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 99020,
+      "end": 99180,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "began",
+      "start": 99180,
+      "end": 99420,
+      "confidence": 0.9682617,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 99420,
+      "end": 99580,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "worry",
+      "start": 99580,
+      "end": 99820,
+      "confidence": 0.9987793,
+      "speaker": null
+    },
+    {
+      "text": "about",
+      "start": 99820,
+      "end": 100100,
+      "confidence": 0.99658203,
+      "speaker": null
+    },
+    {
+      "text": "what",
+      "start": 100180,
+      "end": 100540,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "other",
+      "start": 100540,
+      "end": 100860,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "people",
+      "start": 100860,
+      "end": 101220,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "thought",
+      "start": 101460,
+      "end": 101740,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 101740,
+      "end": 101900,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "me",
+      "start": 101900,
+      "end": 102180,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 102180,
+      "end": 102460,
+      "confidence": 0.9746094,
+      "speaker": null
+    },
+    {
+      "text": "starting",
+      "start": 102460,
+      "end": 102860,
+      "confidence": 0.6699219,
+      "speaker": null
+    },
+    {
+      "text": "seeing",
+      "start": 102860,
+      "end": 103220,
+      "confidence": 0.9987793,
+      "speaker": null
+    },
+    {
+      "text": "myself",
+      "start": 103220,
+      "end": 103580,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "through",
+      "start": 103580,
+      "end": 103780,
+      "confidence": 0.9926758,
+      "speaker": null
+    },
+    {
+      "text": "their",
+      "start": 103780,
+      "end": 103980,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "eyes.",
+      "start": 103980,
+      "end": 104340,
+      "confidence": 0.98217773,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 105750,
+      "end": 105910,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "stopped",
+      "start": 105910,
+      "end": 106470,
+      "confidence": 0.99641925,
+      "speaker": null
+    },
+    {
+      "text": "looking",
+      "start": 106710,
+      "end": 107110,
+      "confidence": 0.6074219,
+      "speaker": null
+    },
+    {
+      "text": "up",
+      "start": 107110,
+      "end": 107470,
+      "confidence": 0.9946289,
+      "speaker": null
+    },
+    {
+      "text": "at",
+      "start": 107470,
+      "end": 107710,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 107710,
+      "end": 107870,
+      "confidence": 0.99658203,
+      "speaker": null
+    },
+    {
+      "text": "night",
+      "start": 107870,
+      "end": 108110,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "skies,",
+      "start": 108110,
+      "end": 108630,
+      "confidence": 0.8745117,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 109430,
+      "end": 109750,
+      "confidence": 0.9946289,
+      "speaker": null
+    },
+    {
+      "text": "stars.",
+      "start": 109750,
+      "end": 110310,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 110870,
+      "end": 111190,
+      "confidence": 0.99365234,
+      "speaker": null
+    },
+    {
+      "text": "stopped",
+      "start": 111190,
+      "end": 111750,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "daydreaming.",
+      "start": 111830,
+      "end": 112710,
+      "confidence": 0.99794924,
+      "speaker": null
+    },
+    {
+      "text": "Instead,",
+      "start": 113910,
+      "end": 114470,
+      "confidence": 0.9938965,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 114870,
+      "end": 115190,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "just",
+      "start": 115190,
+      "end": 115430,
+      "confidence": 0.9663086,
+      "speaker": null
+    },
+    {
+      "text": "tried",
+      "start": 115430,
+      "end": 115710,
+      "confidence": 0.9909668,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 115710,
+      "end": 115870,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "jam",
+      "start": 115870,
+      "end": 116190,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "myself",
+      "start": 116190,
+      "end": 116710,
+      "confidence": 0.9992676,
+      "speaker": null
+    },
+    {
+      "text": "into",
+      "start": 116950,
+      "end": 117270,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 117270,
+      "end": 117510,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "malls",
+      "start": 117510,
+      "end": 118070,
+      "confidence": 0.9851888,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 118070,
+      "end": 118310,
+      "confidence": 0.98779297,
+      "speaker": null
+    },
+    {
+      "text": "other",
+      "start": 118310,
+      "end": 118550,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "people",
+      "start": 118550,
+      "end": 118870,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "made.",
+      "start": 118870,
+      "end": 119270,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "Soon",
+      "start": 121030,
+      "end": 121430,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 121590,
+      "end": 121870,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "began",
+      "start": 121870,
+      "end": 122150,
+      "confidence": 0.99658203,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 122150,
+      "end": 122310,
+      "confidence": 0.99609375,
+      "speaker": null
+    },
+    {
+      "text": "shut",
+      "start": 122310,
+      "end": 122590,
+      "confidence": 0.94921875,
+      "speaker": null
+    },
+    {
+      "text": "out",
+      "start": 122590,
+      "end": 122750,
+      "confidence": 0.9350586,
+      "speaker": null
+    },
+    {
+      "text": "my",
+      "start": 122750,
+      "end": 122950,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "own",
+      "start": 122950,
+      "end": 123190,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "voice",
+      "start": 123190,
+      "end": 123590,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 123990,
+      "end": 124310,
+      "confidence": 0.99365234,
+      "speaker": null
+    },
+    {
+      "text": "started",
+      "start": 124310,
+      "end": 124550,
+      "confidence": 0.9873047,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 124550,
+      "end": 124750,
+      "confidence": 0.99609375,
+      "speaker": null
+    },
+    {
+      "text": "listen",
+      "start": 124750,
+      "end": 125150,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 125150,
+      "end": 125390,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 125390,
+      "end": 125510,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "voices",
+      "start": 125510,
+      "end": 125790,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 125790,
+      "end": 125950,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "others.",
+      "start": 125950,
+      "end": 126230,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "No",
+      "start": 128070,
+      "end": 128350,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "one",
+      "start": 128350,
+      "end": 128630,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "called",
+      "start": 128630,
+      "end": 128950,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "out",
+      "start": 128950,
+      "end": 129190,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "my",
+      "start": 129190,
+      "end": 129430,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "name.",
+      "start": 129430,
+      "end": 129750,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "Neither",
+      "start": 130880,
+      "end": 131120,
+      "confidence": 0.998291,
+      "speaker": null
+    },
+    {
+      "text": "did",
+      "start": 131120,
+      "end": 131320,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "I.",
+      "start": 131320,
+      "end": 131600,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "My",
+      "start": 133200,
+      "end": 133520,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "heart",
+      "start": 133520,
+      "end": 133840,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "stopped",
+      "start": 133840,
+      "end": 134560,
+      "confidence": 0.8538411,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 134560,
+      "end": 134880,
+      "confidence": 0.9633789,
+      "speaker": null
+    },
+    {
+      "text": "my",
+      "start": 134880,
+      "end": 135080,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "eyes",
+      "start": 135080,
+      "end": 135360,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "closed",
+      "start": 135360,
+      "end": 135760,
+      "confidence": 0.9848633,
+      "speaker": null
+    },
+    {
+      "text": "shut.",
+      "start": 135760,
+      "end": 136160,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "So",
+      "start": 137840,
+      "end": 138240,
+      "confidence": 0.9873047,
+      "speaker": null
+    },
+    {
+      "text": "like",
+      "start": 138480,
+      "end": 138800,
+      "confidence": 0.9941406,
+      "speaker": null
+    },
+    {
+      "text": "this",
+      "start": 138800,
+      "end": 139120,
+      "confidence": 0.9428711,
+      "speaker": null
+    },
+    {
+      "text": "I.",
+      "start": 140000,
+      "end": 140400,
+      "confidence": 0.9765625,
+      "speaker": null
+    },
+    {
+      "text": "We",
+      "start": 141200,
+      "end": 141600,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "all",
+      "start": 142800,
+      "end": 143120,
+      "confidence": 0.98339844,
+      "speaker": null
+    },
+    {
+      "text": "lost",
+      "start": 143120,
+      "end": 143360,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "our",
+      "start": 143360,
+      "end": 143600,
+      "confidence": 0.96875,
+      "speaker": null
+    },
+    {
+      "text": "names.",
+      "start": 143600,
+      "end": 144080,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "We",
+      "start": 145280,
+      "end": 145560,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "became",
+      "start": 145560,
+      "end": 145880,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "like",
+      "start": 145880,
+      "end": 146120,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "ghosts.",
+      "start": 146120,
+      "end": 146720,
+      "confidence": 0.99938965,
+      "speaker": null
+    },
+    {
+      "text": "But",
+      "start": 149440,
+      "end": 149720,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 149720,
+      "end": 149880,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "had",
+      "start": 149880,
+      "end": 150080,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "one",
+      "start": 150080,
+      "end": 150360,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "century",
+      "start": 150360,
+      "end": 150960,
+      "confidence": 0.8857422,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 150960,
+      "end": 151280,
+      "confidence": 0.6513672,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 151280,
+      "end": 151480,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 151480,
+      "end": 151680,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "music.",
+      "start": 151680,
+      "end": 152000,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "There",
+      "start": 153120,
+      "end": 153400,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 153400,
+      "end": 153560,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 153560,
+      "end": 153760,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "small",
+      "start": 153760,
+      "end": 154080,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "voice",
+      "start": 154080,
+      "end": 154480,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "inside",
+      "start": 154480,
+      "end": 154800,
+      "confidence": 0.90722656,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 154800,
+      "end": 155000,
+      "confidence": 0.98779297,
+      "speaker": null
+    },
+    {
+      "text": "me",
+      "start": 155000,
+      "end": 155160,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 155160,
+      "end": 155360,
+      "confidence": 0.99609375,
+      "speaker": null
+    },
+    {
+      "text": "said,",
+      "start": 155360,
+      "end": 155680,
+      "confidence": 0.96728516,
+      "speaker": null
+    },
+    {
+      "text": "wake",
+      "start": 156460,
+      "end": 156660,
+      "confidence": 0.98950195,
+      "speaker": null
+    },
+    {
+      "text": "up",
+      "start": 156660,
+      "end": 156860,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "man",
+      "start": 156860,
+      "end": 157140,
+      "confidence": 0.9765625,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 157140,
+      "end": 157380,
+      "confidence": 0.9926758,
+      "speaker": null
+    },
+    {
+      "text": "listen",
+      "start": 157380,
+      "end": 157660,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 157660,
+      "end": 157780,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "yourself.",
+      "start": 157780,
+      "end": 158220,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "But",
+      "start": 159420,
+      "end": 159700,
+      "confidence": 0.9838867,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 159700,
+      "end": 159860,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "took",
+      "start": 159860,
+      "end": 160100,
+      "confidence": 0.99658203,
+      "speaker": null
+    },
+    {
+      "text": "me",
+      "start": 160100,
+      "end": 160380,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "quite",
+      "start": 160380,
+      "end": 160620,
+      "confidence": 0.9951172,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 160620,
+      "end": 160740,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "long",
+      "start": 160740,
+      "end": 160940,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "time",
+      "start": 160940,
+      "end": 161180,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 161180,
+      "end": 161460,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "hear",
+      "start": 161460,
+      "end": 161820,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "music",
+      "start": 162140,
+      "end": 162540,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "calling",
+      "start": 162540,
+      "end": 162980,
+      "confidence": 0.98535156,
+      "speaker": null
+    },
+    {
+      "text": "my",
+      "start": 162980,
+      "end": 163140,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "real",
+      "start": 163140,
+      "end": 163380,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "name.",
+      "start": 163380,
+      "end": 163740,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "Even",
+      "start": 165180,
+      "end": 165540,
+      "confidence": 0.9785156,
+      "speaker": null
+    },
+    {
+      "text": "after",
+      "start": 165540,
+      "end": 165860,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "making",
+      "start": 165860,
+      "end": 166140,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 166140,
+      "end": 166340,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "decision",
+      "start": 166340,
+      "end": 166620,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 166620,
+      "end": 166900,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "join",
+      "start": 166900,
+      "end": 167180,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "bts,",
+      "start": 167180,
+      "end": 167660,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "there",
+      "start": 168060,
+      "end": 168340,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "were",
+      "start": 168340,
+      "end": 168580,
+      "confidence": 0.99560547,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 168580,
+      "end": 168780,
+      "confidence": 0.99560547,
+      "speaker": null
+    },
+    {
+      "text": "lot",
+      "start": 168780,
+      "end": 168900,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 168900,
+      "end": 169060,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "hurdles.",
+      "start": 169060,
+      "end": 169580,
+      "confidence": 0.99658203,
+      "speaker": null
+    },
+    {
+      "text": "Some",
+      "start": 170220,
+      "end": 170500,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "people",
+      "start": 170500,
+      "end": 170700,
+      "confidence": 0.99658203,
+      "speaker": null
+    },
+    {
+      "text": "might",
+      "start": 170700,
+      "end": 170900,
+      "confidence": 0.9941406,
+      "speaker": null
+    },
+    {
+      "text": "not",
+      "start": 170900,
+      "end": 171100,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "believe,",
+      "start": 171100,
+      "end": 171420,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "but",
+      "start": 171420,
+      "end": 171820,
+      "confidence": 0.9941406,
+      "speaker": null
+    },
+    {
+      "text": "most",
+      "start": 172140,
+      "end": 172460,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "people",
+      "start": 172460,
+      "end": 172740,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "thought",
+      "start": 172740,
+      "end": 173020,
+      "confidence": 0.99316406,
+      "speaker": null
+    },
+    {
+      "text": "we",
+      "start": 173020,
+      "end": 173220,
+      "confidence": 0.98828125,
+      "speaker": null
+    },
+    {
+      "text": "were",
+      "start": 173220,
+      "end": 173420,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "hopeless.",
+      "start": 173420,
+      "end": 173980,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "And",
+      "start": 175260,
+      "end": 175580,
+      "confidence": 0.8129883,
+      "speaker": null
+    },
+    {
+      "text": "sometimes",
+      "start": 175580,
+      "end": 176180,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 176180,
+      "end": 176420,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "just",
+      "start": 176420,
+      "end": 176580,
+      "confidence": 0.97802734,
+      "speaker": null
+    },
+    {
+      "text": "wanted",
+      "start": 176580,
+      "end": 176780,
+      "confidence": 0.998291,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 176780,
+      "end": 176900,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "quit.",
+      "start": 176900,
+      "end": 177260,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "But",
+      "start": 179180,
+      "end": 179460,
+      "confidence": 0.9746094,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 179460,
+      "end": 179580,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "think",
+      "start": 179580,
+      "end": 179780,
+      "confidence": 0.9916992,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 179780,
+      "end": 179980,
+      "confidence": 0.99316406,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 179980,
+      "end": 180100,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "very",
+      "start": 180100,
+      "end": 180300,
+      "confidence": 0.98876953,
+      "speaker": null
+    },
+    {
+      "text": "lucky",
+      "start": 180300,
+      "end": 180660,
+      "confidence": 0.9998372,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 180660,
+      "end": 180820,
+      "confidence": 0.9785156,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 180820,
+      "end": 181100,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "didn't",
+      "start": 181100,
+      "end": 181500,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "give",
+      "start": 181500,
+      "end": 181620,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 181620,
+      "end": 181780,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "all",
+      "start": 181780,
+      "end": 181940,
+      "confidence": 0.9951172,
+      "speaker": null
+    },
+    {
+      "text": "up.",
+      "start": 181940,
+      "end": 182220,
+      "confidence": 0.9868164,
+      "speaker": null
+    },
+    {
+      "text": "And",
+      "start": 185350,
+      "end": 185470,
+      "confidence": 0.97998047,
+      "speaker": null
+    },
+    {
+      "text": "I'm",
+      "start": 185470,
+      "end": 185750,
+      "confidence": 0.9593099,
+      "speaker": null
+    },
+    {
+      "text": "sure",
+      "start": 185750,
+      "end": 186070,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 186390,
+      "end": 186750,
+      "confidence": 0.99072266,
+      "speaker": null
+    },
+    {
+      "text": "I.",
+      "start": 186750,
+      "end": 187110,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "And",
+      "start": 187590,
+      "end": 187990,
+      "confidence": 0.9951172,
+      "speaker": null
+    },
+    {
+      "text": "we",
+      "start": 187990,
+      "end": 188390,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "will",
+      "start": 188790,
+      "end": 189110,
+      "confidence": 0.9916992,
+      "speaker": null
+    },
+    {
+      "text": "keep",
+      "start": 189110,
+      "end": 189390,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "stumbling",
+      "start": 189390,
+      "end": 189990,
+      "confidence": 0.9086914,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 190070,
+      "end": 190390,
+      "confidence": 0.99121094,
+      "speaker": null
+    },
+    {
+      "text": "falling",
+      "start": 190390,
+      "end": 190830,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "like",
+      "start": 190830,
+      "end": 190990,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "this.",
+      "start": 190990,
+      "end": 191270,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "BTS",
+      "start": 193990,
+      "end": 194550,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "has",
+      "start": 194870,
+      "end": 195190,
+      "confidence": 0.99316406,
+      "speaker": null
+    },
+    {
+      "text": "become",
+      "start": 195190,
+      "end": 195510,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "artists,",
+      "start": 195510,
+      "end": 196070,
+      "confidence": 0.9797363,
+      "speaker": null
+    },
+    {
+      "text": "performing",
+      "start": 196230,
+      "end": 196750,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 196750,
+      "end": 196910,
+      "confidence": 0.9902344,
+      "speaker": null
+    },
+    {
+      "text": "those",
+      "start": 196910,
+      "end": 197110,
+      "confidence": 0.9941406,
+      "speaker": null
+    },
+    {
+      "text": "huge",
+      "start": 197110,
+      "end": 197430,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "stadiums",
+      "start": 197430,
+      "end": 197990,
+      "confidence": 0.99890137,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 197990,
+      "end": 198150,
+      "confidence": 0.99609375,
+      "speaker": null
+    },
+    {
+      "text": "selling",
+      "start": 198150,
+      "end": 198669,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "millions",
+      "start": 198669,
+      "end": 199110,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 199110,
+      "end": 199230,
+      "confidence": 0.99609375,
+      "speaker": null
+    },
+    {
+      "text": "albums",
+      "start": 199230,
+      "end": 199630,
+      "confidence": 0.99816895,
+      "speaker": null
+    },
+    {
+      "text": "right",
+      "start": 199630,
+      "end": 199830,
+      "confidence": 0.9951172,
+      "speaker": null
+    },
+    {
+      "text": "now.",
+      "start": 199830,
+      "end": 200150,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "But",
+      "start": 200230,
+      "end": 200630,
+      "confidence": 0.99658203,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 200870,
+      "end": 201270,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "am",
+      "start": 201270,
+      "end": 201670,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "still",
+      "start": 201670,
+      "end": 201990,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "an",
+      "start": 201990,
+      "end": 202230,
+      "confidence": 0.99560547,
+      "speaker": null
+    },
+    {
+      "text": "ordinary",
+      "start": 202230,
+      "end": 202870,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "24",
+      "start": 203110,
+      "end": 203630,
+      "confidence": 0.9978,
+      "speaker": null
+    },
+    {
+      "text": "year",
+      "start": 203630,
+      "end": 203790,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "old",
+      "start": 203790,
+      "end": 203990,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "guy.",
+      "start": 203990,
+      "end": 204390,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "If",
+      "start": 205830,
+      "end": 206150,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "there's",
+      "start": 206150,
+      "end": 206590,
+      "confidence": 0.8852539,
+      "speaker": null
+    },
+    {
+      "text": "anything",
+      "start": 206590,
+      "end": 206950,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 206950,
+      "end": 207110,
+      "confidence": 0.9760742,
+      "speaker": null
+    },
+    {
+      "text": "I've",
+      "start": 207110,
+      "end": 207310,
+      "confidence": 0.96565753,
+      "speaker": null
+    },
+    {
+      "text": "achieved,",
+      "start": 207310,
+      "end": 207830,
+      "confidence": 0.99886066,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 208370,
+      "end": 208490,
+      "confidence": 0.9042969,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 208490,
+      "end": 208690,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "only",
+      "start": 208690,
+      "end": 208970,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "possible",
+      "start": 208970,
+      "end": 209330,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 210050,
+      "end": 210330,
+      "confidence": 0.99365234,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 210330,
+      "end": 210490,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 210490,
+      "end": 210650,
+      "confidence": 0.92285156,
+      "speaker": null
+    },
+    {
+      "text": "my",
+      "start": 210650,
+      "end": 210850,
+      "confidence": 0.9897461,
+      "speaker": null
+    },
+    {
+      "text": "other",
+      "start": 210850,
+      "end": 211130,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "bts.",
+      "start": 211130,
+      "end": 211650,
+      "confidence": 0.9992676,
+      "speaker": null
+    },
+    {
+      "text": "Members",
+      "start": 211650,
+      "end": 212050,
+      "confidence": 0.99365234,
+      "speaker": null
+    },
+    {
+      "text": "right",
+      "start": 212610,
+      "end": 212930,
+      "confidence": 0.98876953,
+      "speaker": null
+    },
+    {
+      "text": "by",
+      "start": 212930,
+      "end": 213170,
+      "confidence": 0.9951172,
+      "speaker": null
+    },
+    {
+      "text": "my",
+      "start": 213170,
+      "end": 213410,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "side.",
+      "start": 213410,
+      "end": 213730,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "And",
+      "start": 214530,
+      "end": 214850,
+      "confidence": 0.9394531,
+      "speaker": null
+    },
+    {
+      "text": "because",
+      "start": 214850,
+      "end": 215090,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 215090,
+      "end": 215290,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 215290,
+      "end": 215490,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "love",
+      "start": 215490,
+      "end": 215810,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 216210,
+      "end": 216490,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 216490,
+      "end": 216690,
+      "confidence": 0.9042969,
+      "speaker": null
+    },
+    {
+      "text": "support",
+      "start": 216690,
+      "end": 217010,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 217730,
+      "end": 218010,
+      "confidence": 0.9897461,
+      "speaker": null
+    },
+    {
+      "text": "our",
+      "start": 218010,
+      "end": 218170,
+      "confidence": 0.9736328,
+      "speaker": null
+    },
+    {
+      "text": "army",
+      "start": 218170,
+      "end": 218650,
+      "confidence": 0.836263,
+      "speaker": null
+    },
+    {
+      "text": "fans",
+      "start": 218650,
+      "end": 219090,
+      "confidence": 0.998291,
+      "speaker": null
+    },
+    {
+      "text": "all",
+      "start": 219090,
+      "end": 219370,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "over",
+      "start": 219370,
+      "end": 219530,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 219530,
+      "end": 219690,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "world",
+      "start": 219690,
+      "end": 219890,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "made",
+      "start": 219890,
+      "end": 220130,
+      "confidence": 0.9506836,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 220130,
+      "end": 220330,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "us.",
+      "start": 220330,
+      "end": 220610,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "And",
+      "start": 222530,
+      "end": 222850,
+      "confidence": 0.86572266,
+      "speaker": null
+    },
+    {
+      "text": "maybe",
+      "start": 222850,
+      "end": 223330,
+      "confidence": 0.8249512,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 223330,
+      "end": 223610,
+      "confidence": 0.9926758,
+      "speaker": null
+    },
+    {
+      "text": "made",
+      "start": 223610,
+      "end": 223770,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 223770,
+      "end": 223930,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "mistake",
+      "start": 223930,
+      "end": 224329,
+      "confidence": 0.9972331,
+      "speaker": null
+    },
+    {
+      "text": "yesterday,",
+      "start": 224329,
+      "end": 224770,
+      "confidence": 0.9552409,
+      "speaker": null
+    },
+    {
+      "text": "but",
+      "start": 225970,
+      "end": 226290,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "yesterday's",
+      "start": 226290,
+      "end": 227010,
+      "confidence": 0.98583984,
+      "speaker": null
+    },
+    {
+      "text": "me",
+      "start": 227010,
+      "end": 227330,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 227410,
+      "end": 227770,
+      "confidence": 0.96972656,
+      "speaker": null
+    },
+    {
+      "text": "still",
+      "start": 227770,
+      "end": 228090,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "me.",
+      "start": 228090,
+      "end": 228450,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "Today",
+      "start": 230130,
+      "end": 230530,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 231490,
+      "end": 231810,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "am",
+      "start": 231810,
+      "end": 232090,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "who",
+      "start": 232090,
+      "end": 232370,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 232370,
+      "end": 232650,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "am",
+      "start": 232650,
+      "end": 233010,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 233250,
+      "end": 233570,
+      "confidence": 0.9926758,
+      "speaker": null
+    },
+    {
+      "text": "all,",
+      "start": 233570,
+      "end": 233770,
+      "confidence": 0.6958008,
+      "speaker": null
+    },
+    {
+      "text": "all",
+      "start": 233920,
+      "end": 234040,
+      "confidence": 0.7260742,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 234040,
+      "end": 234200,
+      "confidence": 0.92333984,
+      "speaker": null
+    },
+    {
+      "text": "my",
+      "start": 234200,
+      "end": 234360,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "faults",
+      "start": 234360,
+      "end": 234720,
+      "confidence": 0.95751953,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 234720,
+      "end": 235040,
+      "confidence": 0.9946289,
+      "speaker": null
+    },
+    {
+      "text": "my",
+      "start": 235040,
+      "end": 235240,
+      "confidence": 0.9038086,
+      "speaker": null
+    },
+    {
+      "text": "mistakes.",
+      "start": 235240,
+      "end": 235760,
+      "confidence": 0.9991862,
+      "speaker": null
+    },
+    {
+      "text": "Tomorrow,",
+      "start": 237360,
+      "end": 238080,
+      "confidence": 0.8826904,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 239040,
+      "end": 239360,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "might",
+      "start": 239360,
+      "end": 239640,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "be",
+      "start": 239640,
+      "end": 240000,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 240560,
+      "end": 240840,
+      "confidence": 0.99365234,
+      "speaker": null
+    },
+    {
+      "text": "tiny",
+      "start": 240840,
+      "end": 241200,
+      "confidence": 0.9996745,
+      "speaker": null
+    },
+    {
+      "text": "bit",
+      "start": 241200,
+      "end": 241360,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "wiser.",
+      "start": 241360,
+      "end": 241920,
+      "confidence": 0.9983724,
+      "speaker": null
+    },
+    {
+      "text": "And",
+      "start": 242640,
+      "end": 242920,
+      "confidence": 0.99365234,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 242920,
+      "end": 243120,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "would",
+      "start": 243120,
+      "end": 243320,
+      "confidence": 0.50390625,
+      "speaker": null
+    },
+    {
+      "text": "be",
+      "start": 243320,
+      "end": 243480,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "me",
+      "start": 243480,
+      "end": 243680,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "too.",
+      "start": 243680,
+      "end": 244000,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "These",
+      "start": 245680,
+      "end": 246080,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "faults",
+      "start": 246080,
+      "end": 246640,
+      "confidence": 0.7453613,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 246800,
+      "end": 247160,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "mistakes",
+      "start": 247160,
+      "end": 247840,
+      "confidence": 0.9998372,
+      "speaker": null
+    },
+    {
+      "text": "are",
+      "start": 248160,
+      "end": 248440,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "what",
+      "start": 248440,
+      "end": 248600,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 248600,
+      "end": 248800,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "am.",
+      "start": 248800,
+      "end": 249120,
+      "confidence": 0.99072266,
+      "speaker": null
+    },
+    {
+      "text": "Making",
+      "start": 249760,
+      "end": 250079,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "up",
+      "start": 250079,
+      "end": 250280,
+      "confidence": 0.9926758,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 250280,
+      "end": 250440,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "brightest",
+      "start": 250440,
+      "end": 250840,
+      "confidence": 0.99934894,
+      "speaker": null
+    },
+    {
+      "text": "stars",
+      "start": 250840,
+      "end": 251280,
+      "confidence": 0.99731445,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 251280,
+      "end": 251480,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 251480,
+      "end": 251640,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "constellation",
+      "start": 251640,
+      "end": 252320,
+      "confidence": 0.84521484,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 252320,
+      "end": 252520,
+      "confidence": 0.98828125,
+      "speaker": null
+    },
+    {
+      "text": "my",
+      "start": 252520,
+      "end": 252680,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "life.",
+      "start": 252680,
+      "end": 252960,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 254560,
+      "end": 254880,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 254880,
+      "end": 255120,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "come",
+      "start": 255120,
+      "end": 255320,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 255320,
+      "end": 255480,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "love",
+      "start": 255480,
+      "end": 255720,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "myself",
+      "start": 255720,
+      "end": 256320,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 256640,
+      "end": 257000,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "who",
+      "start": 257000,
+      "end": 257240,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 257240,
+      "end": 257440,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "am,",
+      "start": 257440,
+      "end": 257760,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 258640,
+      "end": 258920,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "who",
+      "start": 258920,
+      "end": 259080,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 259080,
+      "end": 259280,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "was,",
+      "start": 259280,
+      "end": 259600,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 260350,
+      "end": 260510,
+      "confidence": 0.79785156,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 260510,
+      "end": 260710,
+      "confidence": 0.97021484,
+      "speaker": null
+    },
+    {
+      "text": "who",
+      "start": 260710,
+      "end": 260870,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 260870,
+      "end": 261030,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "hope",
+      "start": 261030,
+      "end": 261230,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 261230,
+      "end": 261430,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "become.",
+      "start": 261430,
+      "end": 261710,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "I'd",
+      "start": 264430,
+      "end": 264830,
+      "confidence": 0.9108073,
+      "speaker": null
+    },
+    {
+      "text": "like",
+      "start": 264830,
+      "end": 264950,
+      "confidence": 0.98583984,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 264950,
+      "end": 265150,
+      "confidence": 0.9765625,
+      "speaker": null
+    },
+    {
+      "text": "say",
+      "start": 265150,
+      "end": 265470,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 265470,
+      "end": 265750,
+      "confidence": 0.7451172,
+      "speaker": null
+    },
+    {
+      "text": "one",
+      "start": 265750,
+      "end": 265950,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "last",
+      "start": 265950,
+      "end": 266230,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "thing.",
+      "start": 266230,
+      "end": 266590,
+      "confidence": 0.8149414,
+      "speaker": null
+    },
+    {
+      "text": "After",
+      "start": 268510,
+      "end": 268910,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "releasing",
+      "start": 268910,
+      "end": 269470,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "our",
+      "start": 269470,
+      "end": 269750,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "Love",
+      "start": 269750,
+      "end": 270030,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "albums",
+      "start": 270430,
+      "end": 271070,
+      "confidence": 0.9577637,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 271150,
+      "end": 271470,
+      "confidence": 0.5620117,
+      "speaker": null
+    },
+    {
+      "text": "launching",
+      "start": 271470,
+      "end": 271830,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 271830,
+      "end": 271990,
+      "confidence": 0.99609375,
+      "speaker": null
+    },
+    {
+      "text": "Love",
+      "start": 271990,
+      "end": 272190,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "Myself",
+      "start": 272190,
+      "end": 272670,
+      "confidence": 0.9963379,
+      "speaker": null
+    },
+    {
+      "text": "campaign,",
+      "start": 272670,
+      "end": 273070,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "we",
+      "start": 273230,
+      "end": 273550,
+      "confidence": 0.99609375,
+      "speaker": null
+    },
+    {
+      "text": "started",
+      "start": 273550,
+      "end": 273870,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 273950,
+      "end": 274230,
+      "confidence": 0.99609375,
+      "speaker": null
+    },
+    {
+      "text": "hear",
+      "start": 274230,
+      "end": 274470,
+      "confidence": 0.9951172,
+      "speaker": null
+    },
+    {
+      "text": "remarkable",
+      "start": 274470,
+      "end": 275110,
+      "confidence": 0.94466144,
+      "speaker": null
+    },
+    {
+      "text": "stories",
+      "start": 275110,
+      "end": 275470,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "from",
+      "start": 275470,
+      "end": 275750,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "our",
+      "start": 275750,
+      "end": 276030,
+      "confidence": 0.98828125,
+      "speaker": null
+    },
+    {
+      "text": "fans",
+      "start": 276030,
+      "end": 276350,
+      "confidence": 0.9667969,
+      "speaker": null
+    },
+    {
+      "text": "all",
+      "start": 276350,
+      "end": 276550,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "over",
+      "start": 276550,
+      "end": 276750,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 276750,
+      "end": 276950,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "world.",
+      "start": 276950,
+      "end": 277230,
+      "confidence": 0.99365234,
+      "speaker": null
+    },
+    {
+      "text": "How",
+      "start": 277470,
+      "end": 277790,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "our",
+      "start": 277790,
+      "end": 278070,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "message",
+      "start": 278070,
+      "end": 278550,
+      "confidence": 0.99560547,
+      "speaker": null
+    },
+    {
+      "text": "helped",
+      "start": 278550,
+      "end": 278910,
+      "confidence": 0.9904785,
+      "speaker": null
+    },
+    {
+      "text": "them",
+      "start": 278910,
+      "end": 279070,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "overcome",
+      "start": 279070,
+      "end": 279670,
+      "confidence": 0.9996745,
+      "speaker": null
+    },
+    {
+      "text": "their",
+      "start": 279670,
+      "end": 279950,
+      "confidence": 0.91064453,
+      "speaker": null
+    },
+    {
+      "text": "hardships",
+      "start": 279950,
+      "end": 280630,
+      "confidence": 0.9703369,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 280630,
+      "end": 280830,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "life",
+      "start": 280830,
+      "end": 281150,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 281710,
+      "end": 282030,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "start",
+      "start": 282030,
+      "end": 282270,
+      "confidence": 0.9946289,
+      "speaker": null
+    },
+    {
+      "text": "loving",
+      "start": 282270,
+      "end": 282590,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "themselves.",
+      "start": 282590,
+      "end": 283070,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "Those",
+      "start": 284350,
+      "end": 284710,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "stories",
+      "start": 284710,
+      "end": 285230,
+      "confidence": 0.8510742,
+      "speaker": null
+    },
+    {
+      "text": "constantly",
+      "start": 285230,
+      "end": 285830,
+      "confidence": 0.93636066,
+      "speaker": null
+    },
+    {
+      "text": "remind",
+      "start": 285830,
+      "end": 286190,
+      "confidence": 0.9987793,
+      "speaker": null
+    },
+    {
+      "text": "us",
+      "start": 286190,
+      "end": 286470,
+      "confidence": 0.99560547,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 286470,
+      "end": 286750,
+      "confidence": 0.53125,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 286820,
+      "end": 286900,
+      "confidence": 0.75390625,
+      "speaker": null
+    },
+    {
+      "text": "our",
+      "start": 286900,
+      "end": 287020,
+      "confidence": 0.99560547,
+      "speaker": null
+    },
+    {
+      "text": "responsibility.",
+      "start": 287020,
+      "end": 287620,
+      "confidence": 0.9953613,
+      "speaker": null
+    },
+    {
+      "text": "So",
+      "start": 290180,
+      "end": 290580,
+      "confidence": 0.9819336,
+      "speaker": null
+    },
+    {
+      "text": "let's",
+      "start": 291140,
+      "end": 291580,
+      "confidence": 0.99283856,
+      "speaker": null
+    },
+    {
+      "text": "take",
+      "start": 291580,
+      "end": 291860,
+      "confidence": 0.99072266,
+      "speaker": null
+    },
+    {
+      "text": "all",
+      "start": 291860,
+      "end": 292220,
+      "confidence": 0.9707031,
+      "speaker": null
+    },
+    {
+      "text": "one",
+      "start": 292220,
+      "end": 292500,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "more",
+      "start": 292500,
+      "end": 292780,
+      "confidence": 0.9941406,
+      "speaker": null
+    },
+    {
+      "text": "step.",
+      "start": 292780,
+      "end": 293140,
+      "confidence": 0.9838867,
+      "speaker": null
+    },
+    {
+      "text": "We",
+      "start": 294420,
+      "end": 294780,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 294780,
+      "end": 295100,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "learned",
+      "start": 295100,
+      "end": 295620,
+      "confidence": 0.9213867,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 295620,
+      "end": 295900,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "love",
+      "start": 295900,
+      "end": 296100,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "ourselves.",
+      "start": 296100,
+      "end": 296660,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "So",
+      "start": 297620,
+      "end": 297940,
+      "confidence": 0.99365234,
+      "speaker": null
+    },
+    {
+      "text": "now",
+      "start": 297940,
+      "end": 298220,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 298220,
+      "end": 298540,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "urge",
+      "start": 298540,
+      "end": 298940,
+      "confidence": 0.8654785,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 298940,
+      "end": 299260,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 299260,
+      "end": 299620,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "speak",
+      "start": 299940,
+      "end": 300380,
+      "confidence": 0.9790039,
+      "speaker": null
+    },
+    {
+      "text": "yourself.",
+      "start": 300380,
+      "end": 300900,
+      "confidence": 0.9987793,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 304420,
+      "end": 304740,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "like",
+      "start": 304740,
+      "end": 304940,
+      "confidence": 0.9711914,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 304940,
+      "end": 305220,
+      "confidence": 0.67578125,
+      "speaker": null
+    },
+    {
+      "text": "ask",
+      "start": 305380,
+      "end": 305780,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "all",
+      "start": 305780,
+      "end": 306060,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 306060,
+      "end": 306220,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "you.",
+      "start": 306220,
+      "end": 306500,
+      "confidence": 0.9145508,
+      "speaker": null
+    },
+    {
+      "text": "What",
+      "start": 307860,
+      "end": 308140,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 308140,
+      "end": 308340,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "your",
+      "start": 308340,
+      "end": 308540,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "name?",
+      "start": 308540,
+      "end": 308820,
+      "confidence": 0.5151367,
+      "speaker": null
+    },
+    {
+      "text": "What",
+      "start": 310820,
+      "end": 311140,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "excites",
+      "start": 311140,
+      "end": 311740,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 311740,
+      "end": 312020,
+      "confidence": 0.99560547,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 312020,
+      "end": 312280,
+      "confidence": 0.7626953,
+      "speaker": null
+    },
+    {
+      "text": "makes",
+      "start": 312510,
+      "end": 312670,
+      "confidence": 0.97021484,
+      "speaker": null
+    },
+    {
+      "text": "your",
+      "start": 312670,
+      "end": 312870,
+      "confidence": 0.99072266,
+      "speaker": null
+    },
+    {
+      "text": "heart",
+      "start": 312870,
+      "end": 313070,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "beat?",
+      "start": 313070,
+      "end": 313470,
+      "confidence": 0.87597656,
+      "speaker": null
+    },
+    {
+      "text": "Tell",
+      "start": 314750,
+      "end": 315070,
+      "confidence": 0.99365234,
+      "speaker": null
+    },
+    {
+      "text": "me",
+      "start": 315070,
+      "end": 315270,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "your",
+      "start": 315270,
+      "end": 315430,
+      "confidence": 0.99316406,
+      "speaker": null
+    },
+    {
+      "text": "story.",
+      "start": 315430,
+      "end": 315710,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 317070,
+      "end": 317390,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "want",
+      "start": 317390,
+      "end": 317590,
+      "confidence": 0.9277344,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 317590,
+      "end": 317710,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "hear",
+      "start": 317710,
+      "end": 317910,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "your",
+      "start": 317910,
+      "end": 318190,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "voice.",
+      "start": 318190,
+      "end": 318590,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 318830,
+      "end": 319110,
+      "confidence": 0.52490234,
+      "speaker": null
+    },
+    {
+      "text": "want",
+      "start": 319110,
+      "end": 319270,
+      "confidence": 0.7734375,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 319270,
+      "end": 319550,
+      "confidence": 0.6376953,
+      "speaker": null
+    },
+    {
+      "text": "hear",
+      "start": 319630,
+      "end": 319950,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "your",
+      "start": 319950,
+      "end": 320230,
+      "confidence": 0.9941406,
+      "speaker": null
+    },
+    {
+      "text": "conviction.",
+      "start": 320230,
+      "end": 320910,
+      "confidence": 0.93273926,
+      "speaker": null
+    },
+    {
+      "text": "No",
+      "start": 322430,
+      "end": 322710,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "matter",
+      "start": 322710,
+      "end": 322910,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "who",
+      "start": 322910,
+      "end": 323110,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 323110,
+      "end": 323310,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "are,",
+      "start": 323310,
+      "end": 323630,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "where",
+      "start": 323950,
+      "end": 324270,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "you're",
+      "start": 324270,
+      "end": 324630,
+      "confidence": 0.81656903,
+      "speaker": null
+    },
+    {
+      "text": "from,",
+      "start": 324630,
+      "end": 324910,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "your",
+      "start": 325550,
+      "end": 325870,
+      "confidence": 0.99560547,
+      "speaker": null
+    },
+    {
+      "text": "skin",
+      "start": 325870,
+      "end": 326190,
+      "confidence": 0.9572754,
+      "speaker": null
+    },
+    {
+      "text": "color,",
+      "start": 326190,
+      "end": 326670,
+      "confidence": 0.7885742,
+      "speaker": null
+    },
+    {
+      "text": "your",
+      "start": 327150,
+      "end": 327430,
+      "confidence": 0.98779297,
+      "speaker": null
+    },
+    {
+      "text": "gender",
+      "start": 327430,
+      "end": 327710,
+      "confidence": 0.9831543,
+      "speaker": null
+    },
+    {
+      "text": "identity,",
+      "start": 327710,
+      "end": 328270,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "just",
+      "start": 329550,
+      "end": 329870,
+      "confidence": 0.9501953,
+      "speaker": null
+    },
+    {
+      "text": "speak",
+      "start": 329870,
+      "end": 330150,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "yourself.",
+      "start": 330150,
+      "end": 330590,
+      "confidence": 0.998291,
+      "speaker": null
+    },
+    {
+      "text": "Find",
+      "start": 332510,
+      "end": 332830,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "your",
+      "start": 332830,
+      "end": 333110,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "name",
+      "start": 333110,
+      "end": 333430,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 333430,
+      "end": 333790,
+      "confidence": 0.6225586,
+      "speaker": null
+    },
+    {
+      "text": "find",
+      "start": 333870,
+      "end": 334190,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "your",
+      "start": 334190,
+      "end": 334430,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "voice",
+      "start": 334430,
+      "end": 334830,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "by",
+      "start": 334910,
+      "end": 335230,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "speaking",
+      "start": 335230,
+      "end": 335550,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "yourself.",
+      "start": 335550,
+      "end": 336030,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "I'm",
+      "start": 338440,
+      "end": 338640,
+      "confidence": 0.94921875,
+      "speaker": null
+    },
+    {
+      "text": "Kim",
+      "start": 338640,
+      "end": 338920,
+      "confidence": 0.98706055,
+      "speaker": null
+    },
+    {
+      "text": "Nam",
+      "start": 338920,
+      "end": 339240,
+      "confidence": 0.9987793,
+      "speaker": null
+    },
+    {
+      "text": "Joon",
+      "start": 339240,
+      "end": 339720,
+      "confidence": 0.7451172,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 340040,
+      "end": 340440,
+      "confidence": 0.99316406,
+      "speaker": null
+    },
+    {
+      "text": "also",
+      "start": 340600,
+      "end": 341000,
+      "confidence": 0.99121094,
+      "speaker": null
+    },
+    {
+      "text": "RM",
+      "start": 341080,
+      "end": 341520,
+      "confidence": 0.9968262,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 341520,
+      "end": 341720,
+      "confidence": 0.9550781,
+      "speaker": null
+    },
+    {
+      "text": "bts.",
+      "start": 341720,
+      "end": 342200,
+      "confidence": 0.9992676,
+      "speaker": null
+    },
+    {
+      "text": "I'm",
+      "start": 343560,
+      "end": 344000,
+      "confidence": 0.85758466,
+      "speaker": null
+    },
+    {
+      "text": "an",
+      "start": 344000,
+      "end": 344160,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "idol",
+      "start": 344160,
+      "end": 344600,
+      "confidence": 0.9851074,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 345240,
+      "end": 345560,
+      "confidence": 0.9863281,
+      "speaker": null
+    },
+    {
+      "text": "I'm",
+      "start": 345560,
+      "end": 345840,
+      "confidence": 0.9847005,
+      "speaker": null
+    },
+    {
+      "text": "an",
+      "start": 345840,
+      "end": 346000,
+      "confidence": 0.99316406,
+      "speaker": null
+    },
+    {
+      "text": "artist",
+      "start": 346000,
+      "end": 346400,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "from",
+      "start": 346400,
+      "end": 346640,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 346640,
+      "end": 346800,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "small",
+      "start": 346800,
+      "end": 347040,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "town",
+      "start": 347040,
+      "end": 347320,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 347320,
+      "end": 347520,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "Korea.",
+      "start": 347520,
+      "end": 348120,
+      "confidence": 0.9996745,
+      "speaker": null
+    },
+    {
+      "text": "Like",
+      "start": 349400,
+      "end": 349720,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "most",
+      "start": 349720,
+      "end": 350000,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "people,",
+      "start": 350000,
+      "end": 350360,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "I've",
+      "start": 351080,
+      "end": 351600,
+      "confidence": 0.99039716,
+      "speaker": null
+    },
+    {
+      "text": "made",
+      "start": 351600,
+      "end": 351880,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "many",
+      "start": 352120,
+      "end": 352520,
+      "confidence": 0.9941406,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 352520,
+      "end": 352840,
+      "confidence": 0.9511719,
+      "speaker": null
+    },
+    {
+      "text": "plenty",
+      "start": 352840,
+      "end": 353160,
+      "confidence": 0.9617513,
+      "speaker": null
+    },
+    {
+      "text": "mistakes",
+      "start": 353160,
+      "end": 353520,
+      "confidence": 0.99869794,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 353520,
+      "end": 353680,
+      "confidence": 0.99658203,
+      "speaker": null
+    },
+    {
+      "text": "my",
+      "start": 353680,
+      "end": 353880,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "life.",
+      "start": 353880,
+      "end": 354199,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 355800,
+      "end": 356080,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 356080,
+      "end": 356280,
+      "confidence": 0.98779297,
+      "speaker": null
+    },
+    {
+      "text": "many",
+      "start": 356280,
+      "end": 356520,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "faults",
+      "start": 356520,
+      "end": 357000,
+      "confidence": 0.7548828,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 357640,
+      "end": 357960,
+      "confidence": 0.99316406,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 357960,
+      "end": 358160,
+      "confidence": 0.9873047,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 358160,
+      "end": 358360,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "many",
+      "start": 358360,
+      "end": 358600,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "more",
+      "start": 358600,
+      "end": 358880,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "fears.",
+      "start": 358880,
+      "end": 359320,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "But",
+      "start": 360040,
+      "end": 360320,
+      "confidence": 0.99609375,
+      "speaker": null
+    },
+    {
+      "text": "I'm",
+      "start": 360320,
+      "end": 360520,
+      "confidence": 0.99039716,
+      "speaker": null
+    },
+    {
+      "text": "going",
+      "start": 360520,
+      "end": 360600,
+      "confidence": 0.6352539,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 360600,
+      "end": 360720,
+      "confidence": 0.99121094,
+      "speaker": null
+    },
+    {
+      "text": "embrace",
+      "start": 360720,
+      "end": 361160,
+      "confidence": 0.98844403,
+      "speaker": null
+    },
+    {
+      "text": "myself",
+      "start": 361160,
+      "end": 361720,
+      "confidence": 0.9992676,
+      "speaker": null
+    },
+    {
+      "text": "as",
+      "start": 361880,
+      "end": 362200,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "hard",
+      "start": 362200,
+      "end": 362400,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "as",
+      "start": 362400,
+      "end": 362560,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 362560,
+      "end": 362720,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "can.",
+      "start": 362720,
+      "end": 363000,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "And",
+      "start": 363890,
+      "end": 364010,
+      "confidence": 0.9189453,
+      "speaker": null
+    },
+    {
+      "text": "I'm",
+      "start": 364010,
+      "end": 364250,
+      "confidence": 0.9863281,
+      "speaker": null
+    },
+    {
+      "text": "starting",
+      "start": 364250,
+      "end": 364570,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 364570,
+      "end": 364730,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "love",
+      "start": 364730,
+      "end": 364930,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "myself",
+      "start": 364930,
+      "end": 365410,
+      "confidence": 0.9941406,
+      "speaker": null
+    },
+    {
+      "text": "gradually,",
+      "start": 365810,
+      "end": 366370,
+      "confidence": 0.84375,
+      "speaker": null
+    },
+    {
+      "text": "just",
+      "start": 366610,
+      "end": 366930,
+      "confidence": 0.99560547,
+      "speaker": null
+    },
+    {
+      "text": "little",
+      "start": 366930,
+      "end": 367170,
+      "confidence": 0.99609375,
+      "speaker": null
+    },
+    {
+      "text": "by",
+      "start": 367170,
+      "end": 367370,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "little.",
+      "start": 367370,
+      "end": 367650,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "What",
+      "start": 370050,
+      "end": 370330,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 370330,
+      "end": 370530,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "your",
+      "start": 370530,
+      "end": 370730,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "name?",
+      "start": 370730,
+      "end": 371010,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "Speak",
+      "start": 372850,
+      "end": 373250,
+      "confidence": 0.86450195,
+      "speaker": null
+    },
+    {
+      "text": "yourself.",
+      "start": 373250,
+      "end": 373810,
+      "confidence": 0.99658203,
+      "speaker": null
+    },
+    {
+      "text": "Thank",
+      "start": 375010,
+      "end": 375330,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 375330,
+      "end": 375450,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "very",
+      "start": 375450,
+      "end": 375610,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "much.",
+      "start": 375610,
+      "end": 375890,
+      "confidence": 1.0,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9731238,
+  "audio_duration": 390,
+  "punctuate": true,
+  "format_text": true,
+  "dual_channel": null,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": {
+    "status": "success",
+    "results": [
+      {
+        "count": 2,
+        "rank": 0.07,
+        "text": "other people",
+        "timestamps": [
+          {
+            "start": 100540,
+            "end": 101220
+          },
+          {
+            "start": 118310,
+            "end": 118870
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.06,
+        "text": "young people",
+        "timestamps": [
+          {
+            "start": 37330,
+            "end": 37890
+          }
+        ]
+      },
+      {
+        "count": 2,
+        "rank": 0.06,
+        "text": "most people",
+        "timestamps": [
+          {
+            "start": 172140,
+            "end": 172740
+          },
+          {
+            "start": 349720,
+            "end": 350360
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.06,
+        "text": "many more fears",
+        "timestamps": [
+          {
+            "start": 358360,
+            "end": 359320
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.05,
+        "text": "true love",
+        "timestamps": [
+          {
+            "start": 28650,
+            "end": 29450
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.05,
+        "text": "Kim Nam Joon",
+        "timestamps": [
+          {
+            "start": 338640,
+            "end": 339720
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.05,
+        "text": "remarkable stories",
+        "timestamps": [
+          {
+            "start": 274470,
+            "end": 275470
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.05,
+        "text": "many faults",
+        "timestamps": [
+          {
+            "start": 356280,
+            "end": 357000
+          }
+        ]
+      },
+      {
+        "count": 2,
+        "rank": 0.05,
+        "text": "UNICEF",
+        "timestamps": [
+          {
+            "start": 3840,
+            "end": 4560
+          },
+          {
+            "start": 26040,
+            "end": 26720
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.05,
+        "text": "Kim Namjoon",
+        "timestamps": [
+          {
+            "start": 10840,
+            "end": 11800
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.04,
+        "text": "South Korea",
+        "timestamps": [
+          {
+            "start": 59540,
+            "end": 60340
+          }
+        ]
+      },
+      {
+        "count": 3,
+        "rank": 0.04,
+        "text": "mistakes",
+        "timestamps": [
+          {
+            "start": 235240,
+            "end": 235760
+          },
+          {
+            "start": 247160,
+            "end": 247840
+          },
+          {
+            "start": 353160,
+            "end": 353520
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.04,
+        "text": "Last November",
+        "timestamps": [
+          {
+            "start": 22080,
+            "end": 23040
+          }
+        ]
+      },
+      {
+        "count": 3,
+        "rank": 0.04,
+        "text": "albums",
+        "timestamps": [
+          {
+            "start": 88300,
+            "end": 88980
+          },
+          {
+            "start": 199230,
+            "end": 199630
+          },
+          {
+            "start": 270430,
+            "end": 271070
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.04,
+        "text": "significance",
+        "timestamps": [
+          {
+            "start": 18880,
+            "end": 19520
+          }
+        ]
+      }
+    ]
+  },
+  "auto_highlights": true,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": true,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "success",
+    "results": [
+      {
+        "text": "Thank you, Mr. Secretary General, UNICEF Executive Director, and all the excellencies and distinguished guests from across the world. My name is Kim Namjoon, also known as rm, the leader of the group bts. It is an incredible honor to be invited to an occasion with such significance for today's young generation. Last November, BTS launched the Love My Symph campaign with unicef.",
+        "labels": [
+          {
+            "relevance": 0.035385273,
+            "label": "MusicAndAudio>Children'sMusic"
+          },
+          {
+            "relevance": 0.006446805,
+            "label": "EventsAndAttractions>AwardsShows"
+          },
+          {
+            "relevance": 0.005640643,
+            "label": "PopCulture>CelebrityStyle"
+          },
+          {
+            "relevance": 0.0033580477,
+            "label": "Television>Children'sTV"
+          },
+          {
+            "relevance": 0.003118815,
+            "label": "MusicAndAudio>World/InternationalMusic"
+          },
+          {
+            "relevance": 0.0024141818,
+            "label": "PopCulture"
+          },
+          {
+            "relevance": 0.0020715876,
+            "label": "PopCulture>CelebrityScandal"
+          },
+          {
+            "relevance": 0.0015417896,
+            "label": "FamilyAndRelationships>Parenting>InternetSafety"
+          },
+          {
+            "relevance": 0.0014887821,
+            "label": "Hobbies&Interests>ContentProduction"
+          },
+          {
+            "relevance": 0.0012956513,
+            "label": "PopCulture>CelebrityFamilies"
+          }
+        ],
+        "timestamp": {
+          "start": 1760,
+          "end": 26720
+        },
+        "sentences_idx_end": 3,
+        "sentences_idx_start": 0
+      },
+      {
+        "text": "Building on our belief that true love first begins with loving myself, we've been partnering with UNICEF's End Violence Program to protect children and young people all over the world from violence. And our fans have become a major part of this campaign. With their action and with their enthusiasm, we truly have the best fans in the world. And I'd like to begin by talking about myself. I was born in Ilsan, a city near Seoul, South Korea.",
+        "labels": [
+          {
+            "relevance": 0.13592583,
+            "label": "FamilyAndRelationships"
+          },
+          {
+            "relevance": 0.10697922,
+            "label": "MedicalHealth>DiseasesAndConditions>SexualHealth"
+          },
+          {
+            "relevance": 0.10213481,
+            "label": "HealthyLiving>Men'sHealth"
+          },
+          {
+            "relevance": 0.094989926,
+            "label": "HealthyLiving>Women'sHealth"
+          },
+          {
+            "relevance": 0.0717681,
+            "label": "FamilyAndRelationships>SingleLife"
+          },
+          {
+            "relevance": 0.064744264,
+            "label": "FamilyAndRelationships>Dating"
+          },
+          {
+            "relevance": 0.043957166,
+            "label": "MedicalHealth>DiseasesAndConditions>ReproductiveHealth"
+          },
+          {
+            "relevance": 0.024735345,
+            "label": "FamilyAndRelationships>Parenting"
+          },
+          {
+            "relevance": 0.014696113,
+            "label": "FamilyAndRelationships>Parenting>AdoptionAndFostering"
+          },
+          {
+            "relevance": 0.011556465,
+            "label": "Movies>RomanceMovies"
+          }
+        ],
+        "timestamp": {
+          "start": 27210,
+          "end": 60340
+        },
+        "sentences_idx_start": 4,
+        "sentences_idx_end": 8
+      },
+      {
+        "text": "It is a really beautiful place with a lake, hills, and even an annual flower festival. I spent a very happy childhood there and I was just an ordinary boy. I used to look up at the night sky, wonder and I used to dream the dreams of a boy. I used to imagine that I was a superhero who could save the world. And in an intro to one of our early albums, there's a line that says. My heart stopped when I was maybe 9 or 10.",
+        "labels": [
+          {
+            "relevance": 0.25497052,
+            "label": "FamilyAndRelationships>Bereavement"
+          },
+          {
+            "relevance": 0.023023887,
+            "label": "FamilyAndRelationships>Parenting>ParentingChildrenAged4-11"
+          },
+          {
+            "relevance": 0.0149148805,
+            "label": "BooksAndLiterature>Children'sLiterature"
+          },
+          {
+            "relevance": 0.010465555,
+            "label": "FamilyAndRelationships>Parenting"
+          },
+          {
+            "relevance": 0.009033831,
+            "label": "BooksAndLiterature>YoungAdultLiterature"
+          },
+          {
+            "relevance": 0.008475929,
+            "label": "PopCulture>CelebrityDeaths"
+          },
+          {
+            "relevance": 0.008269764,
+            "label": "PopCulture>CelebrityPregnancy"
+          },
+          {
+            "relevance": 0.007338302,
+            "label": "Travel>TravelType>BeachTravel"
+          },
+          {
+            "relevance": 0.006595071,
+            "label": "EventsAndAttractions>PersonalCelebrations&LifeEvents>Birthday"
+          },
+          {
+            "relevance": 0.006303364,
+            "label": "Movies>FamilyAndChildrenMovies"
+          }
+        ],
+        "timestamp": {
+          "start": 61300,
+          "end": 94820
+        },
+        "sentences_idx_start": 9,
+        "sentences_idx_end": 14
+      },
+      {
+        "text": "Looking back, I think that's when I began to worry about what other people thought of me and starting seeing myself through their eyes. I stopped looking up at the night skies, the stars. I stopped daydreaming. Instead, I just tried to jam myself into the malls that other people made. Soon I began to shut out my own voice and started to listen to the voices of others. No one called out my name. Neither did I. My heart stopped and my eyes closed shut.",
+        "labels": [
+          {
+            "relevance": 0.091957755,
+            "label": "Style&Fashion>Beauty"
+          },
+          {
+            "relevance": 0.030337377,
+            "label": "Style&Fashion>Women'sFashion"
+          },
+          {
+            "relevance": 0.017904654,
+            "label": "PopCulture"
+          },
+          {
+            "relevance": 0.01616869,
+            "label": "Style&Fashion>StreetStyle"
+          },
+          {
+            "relevance": 0.01582258,
+            "label": "BooksAndLiterature>YoungAdultLiterature"
+          },
+          {
+            "relevance": 0.00980853,
+            "label": "Style&Fashion>Children'sClothing"
+          },
+          {
+            "relevance": 0.009620263,
+            "label": "FamilyAndRelationships>Parenting>ParentingTeens"
+          },
+          {
+            "relevance": 0.00809502,
+            "label": "Style&Fashion>Men'sFashion"
+          },
+          {
+            "relevance": 0.00757557,
+            "label": "FamilyAndRelationships>Parenting>ParentingChildrenAged4-11"
+          },
+          {
+            "relevance": 0.0058570695,
+            "label": "EventsAndAttractions>Malls&ShoppingCenters"
+          }
+        ],
+        "timestamp": {
+          "start": 96180,
+          "end": 136160
+        },
+        "sentences_idx_start": 15,
+        "sentences_idx_end": 22
+      },
+      {
+        "text": "So like this I. We all lost our names. We became like ghosts. But I had one century and that was music. There was a small voice inside of me that said, wake up man and listen to yourself. But it took me quite a long time to hear music calling my real name. Even after making the decision to join bts, there were a lot of hurdles. Some people might not believe, but most people thought we were hopeless. And sometimes I just wanted to quit.",
+        "labels": [
+          {
+            "relevance": 0.17692523,
+            "label": "MusicAndAudio"
+          },
+          {
+            "relevance": 0.14028136,
+            "label": "MusicAndAudio>Religious(MusicAndAudio)"
+          },
+          {
+            "relevance": 0.13140965,
+            "label": "MusicAndAudio>Inspirational/NewAgeMusic"
+          },
+          {
+            "relevance": 0.052890576,
+            "label": "MusicAndAudio>World/InternationalMusic"
+          },
+          {
+            "relevance": 0.0148123205,
+            "label": "MusicAndAudio>GospelMusic"
+          },
+          {
+            "relevance": 0.008836949,
+            "label": "MusicAndAudio>ClassicalMusic"
+          },
+          {
+            "relevance": 0.0060435366,
+            "label": "Religion&Spirituality>Spirituality"
+          },
+          {
+            "relevance": 0.0022388583,
+            "label": "MusicAndAudio>Variety(MusicAndAudio)"
+          },
+          {
+            "relevance": 0.001842598,
+            "label": "MusicAndAudio>Children'sMusic"
+          },
+          {
+            "relevance": 0.0015448963,
+            "label": "Style&Fashion>BodyArt"
+          }
+        ],
+        "timestamp": {
+          "start": 137840,
+          "end": 177260
+        },
+        "sentences_idx_start": 23,
+        "sentences_idx_end": 31
+      },
+      {
+        "text": "But I think I was very lucky that I didn't give it all up. And I'm sure that I. And we will keep stumbling and falling like this. BTS has become artists, performing in those huge stadiums and selling millions of albums right now. But I am still an ordinary 24 year old guy. If there's anything that I've achieved, it was only possible that I have my other bts. Members right by my side.",
+        "labels": [
+          {
+            "relevance": 0.003560673,
+            "label": "PopCulture>CelebrityStyle"
+          },
+          {
+            "relevance": 0.0030758507,
+            "label": "VideoGaming>ESports"
+          },
+          {
+            "relevance": 0.001579612,
+            "label": "PopCulture>CelebrityFamilies"
+          },
+          {
+            "relevance": 0.0015163856,
+            "label": "EventsAndAttractions>AwardsShows"
+          },
+          {
+            "relevance": 0.0012360846,
+            "label": "MusicAndAudio>AlternativeMusic"
+          },
+          {
+            "relevance": 0.001192793,
+            "label": "MusicAndAudio>CountryMusic"
+          },
+          {
+            "relevance": 0.0010981524,
+            "label": "PopCulture>CelebrityDeaths"
+          },
+          {
+            "relevance": 0.0009759659,
+            "label": "VideoGaming>VideoGameGenres>MMOs"
+          },
+          {
+            "relevance": 0.0009350614,
+            "label": "MusicAndAudio>HipHopMusic"
+          },
+          {
+            "relevance": 0.00079822855,
+            "label": "Technology&Computing>Computing>Internet>SocialNetworking"
+          }
+        ],
+        "timestamp": {
+          "start": 179180,
+          "end": 213730
+        },
+        "sentences_idx_start": 32,
+        "sentences_idx_end": 38
+      },
+      {
+        "text": "And because of the love and the support that our army fans all over the world made for us. And maybe I made a mistake yesterday, but yesterday's me is still me. Today I am who I am with all, all of my faults and my mistakes. Tomorrow, I might be a tiny bit wiser. And that would be me too. These faults and mistakes are what I am. Making up the brightest stars in the constellation of my life.",
+        "labels": [
+          {
+            "relevance": 0.00744845,
+            "label": "Style&Fashion>Beauty"
+          },
+          {
+            "relevance": 0.006490151,
+            "label": "Careers>RemoteWorking"
+          },
+          {
+            "relevance": 0.003952459,
+            "label": "Hobbies&Interests>ContentProduction"
+          },
+          {
+            "relevance": 0.0038312497,
+            "label": "Technology&Computing>Computing>Internet>SocialNetworking"
+          },
+          {
+            "relevance": 0.0025776962,
+            "label": "Travel>TravelType>AirTravel"
+          },
+          {
+            "relevance": 0.0024205844,
+            "label": "BusinessAndFinance>Business>ExecutiveLeadership&Management"
+          },
+          {
+            "relevance": 0.0023120828,
+            "label": "Hobbies&Interests>ContentProduction>FreelanceWriting"
+          },
+          {
+            "relevance": 0.0011313856,
+            "label": "Style&Fashion>BodyArt"
+          },
+          {
+            "relevance": 0.001010106,
+            "label": "MedicalHealth>DiseasesAndConditions>Injuries"
+          },
+          {
+            "relevance": 0.000984428,
+            "label": "MedicalHealth>DiseasesAndConditions>LungAndRespiratoryHealth"
+          }
+        ],
+        "timestamp": {
+          "start": 214530,
+          "end": 252960
+        },
+        "sentences_idx_start": 39,
+        "sentences_idx_end": 45
+      },
+      {
+        "text": "I have come to love myself for who I am, for who I was, and for who I hope to become. I'd like to say the one last thing. After releasing our Love albums and launching the Love Myself campaign, we started to hear remarkable stories from our fans all over the world. How our message helped them overcome their hardships in life and start loving themselves. Those stories constantly remind us of of our responsibility. So let's take all one more step.",
+        "labels": [
+          {
+            "relevance": 0.11838626,
+            "label": "Style&Fashion>Beauty"
+          },
+          {
+            "relevance": 0.020160228,
+            "label": "HealthyLiving>Men'sHealth"
+          },
+          {
+            "relevance": 0.0051296167,
+            "label": "FamilyAndRelationships>SingleLife"
+          },
+          {
+            "relevance": 0.004384928,
+            "label": "Style&Fashion>BodyArt"
+          },
+          {
+            "relevance": 0.0025139938,
+            "label": "HealthyLiving>Women'sHealth"
+          },
+          {
+            "relevance": 0.002511325,
+            "label": "FamilyAndRelationships"
+          },
+          {
+            "relevance": 0.0017969692,
+            "label": "FamilyAndRelationships>Bereavement"
+          },
+          {
+            "relevance": 0.0017482826,
+            "label": "BooksAndLiterature>Biographies"
+          },
+          {
+            "relevance": 0.0016183186,
+            "label": "PopCulture>CelebrityDeaths"
+          },
+          {
+            "relevance": 0.0015270604,
+            "label": "MedicalHealth>DiseasesAndConditions>ReproductiveHealth"
+          }
+        ],
+        "timestamp": {
+          "start": 254560,
+          "end": 293140
+        },
+        "sentences_idx_start": 46,
+        "sentences_idx_end": 51
+      },
+      {
+        "text": "We have learned to love ourselves. So now I urge you to speak yourself. I like to ask all of you. What is your name? What excites you and makes your heart beat? Tell me your story. I want to hear your voice. I want to hear your conviction. No matter who you are, where you're from, your skin color, your gender identity, just speak yourself. Find your name and find your voice by speaking yourself.",
+        "labels": [
+          {
+            "relevance": 0.048936315,
+            "label": "HealthyLiving>Men'sHealth"
+          },
+          {
+            "relevance": 0.010373467,
+            "label": "Style&Fashion>Beauty"
+          },
+          {
+            "relevance": 0.0049184132,
+            "label": "BooksAndLiterature>Biographies"
+          },
+          {
+            "relevance": 0.0042926795,
+            "label": "Style&Fashion>BodyArt"
+          },
+          {
+            "relevance": 0.0029364396,
+            "label": "Religion&Spirituality>Spirituality"
+          },
+          {
+            "relevance": 0.0017673008,
+            "label": "HealthyLiving>Women'sHealth"
+          },
+          {
+            "relevance": 0.0016628957,
+            "label": "BooksAndLiterature>Poetry"
+          },
+          {
+            "relevance": 0.0015354605,
+            "label": "NewsAndPolitics>Politics>PoliticalIssues"
+          },
+          {
+            "relevance": 0.0014222215,
+            "label": "Style&Fashion>PersonalCare>Shaving"
+          },
+          {
+            "relevance": 0.00120166,
+            "label": "Religion&Spirituality"
+          }
+        ],
+        "timestamp": {
+          "start": 294420,
+          "end": 336030
+        },
+        "sentences_idx_start": 52,
+        "sentences_idx_end": 61
+      },
+      {
+        "text": "I'm Kim Nam Joon and also RM of bts. I'm an idol and I'm an artist from a small town in Korea. Like most people, I've made many and plenty mistakes in my life. I have many faults and I have many more fears. But I'm going to embrace myself as hard as I can. And I'm starting to love myself gradually, just little by little. What is your name? Speak yourself. Thank you very much.",
+        "labels": [
+          {
+            "relevance": 0.15324232,
+            "label": "Style&Fashion>Beauty"
+          },
+          {
+            "relevance": 0.055732217,
+            "label": "Style&Fashion>BodyArt"
+          },
+          {
+            "relevance": 0.008655771,
+            "label": "PopCulture"
+          },
+          {
+            "relevance": 0.003067379,
+            "label": "PopCulture>CelebrityStyle"
+          },
+          {
+            "relevance": 0.0013186107,
+            "label": "Hobbies&Interests>ArtsAndCrafts>Painting"
+          },
+          {
+            "relevance": 0.0009804762,
+            "label": "PopCulture>CelebrityRelationships"
+          },
+          {
+            "relevance": 0.0009790909,
+            "label": "FineArt>ModernArt"
+          },
+          {
+            "relevance": 0.00095588854,
+            "label": "FineArt"
+          },
+          {
+            "relevance": 0.000830956,
+            "label": "EventsAndAttractions>FanConventions"
+          },
+          {
+            "relevance": 0.00080413645,
+            "label": "Television>RealityTV"
+          }
+        ],
+        "timestamp": {
+          "start": 338440,
+          "end": 375890
+        },
+        "sentences_idx_start": 62,
+        "sentences_idx_end": 70
+      }
+    ],
+    "summary": {
+      "FamilyAndRelationships>Parenting": 0.095790595,
+      "MusicAndAudio": 0.46235898,
+      "Style&Fashion>BodyArt": 0.19247016,
+      "Style&Fashion>Women'sFashion": 0.084210895,
+      "BooksAndLiterature>YoungAdultLiterature": 0.07075155,
+      "MusicAndAudio>Children'sMusic": 0.11301521,
+      "MusicAndAudio>World/InternationalMusic": 0.14998901,
+      "FamilyAndRelationships>Dating": 0.17629634,
+      "HealthyLiving>Men'sHealth": 0.46746927,
+      "PopCulture": 0.09195844,
+      "MusicAndAudio>Religious(MusicAndAudio)": 0.36590713,
+      "Style&Fashion>Beauty": 1.0,
+      "MedicalHealth>DiseasesAndConditions>ReproductiveHealth": 0.12173462,
+      "FamilyAndRelationships>SingleLife": 0.21165636,
+      "MedicalHealth>DiseasesAndConditions>SexualHealth": 0.28297177,
+      "FamilyAndRelationships": 0.36379865,
+      "FamilyAndRelationships>Bereavement": 0.6771263,
+      "HealthyLiving>Women'sHealth": 0.2654752,
+      "FamilyAndRelationships>Parenting>ParentingChildrenAged4-11": 0.082542025,
+      "MusicAndAudio>Inspirational/NewAgeMusic": 0.34785876
+    }
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": true,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal"
+  ],
+  "speech_model_used": "universal",
+  "chapters": [
+    {
+      "summary": "Last November, BTS launched the Love My Symph campaign with unicef. Building on our belief that true love first begins with loving myself, we've been partnering with UNICEF's End Violence Program. And our fans have become a major part of this campaign. With their action and with their enthusiasm, we truly have the best fans in the world.",
+      "headline": "BTS partnered with UNICEF to launch Love My Symph campaign",
+      "gist": "BTS",
+      "start": 1760,
+      "end": 49450
+    },
+    {
+      "summary": "Kim Nam Joon: It took me quite a long time to hear music calling my real name. BTS has become artists, but I am still an ordinary 24-year-old guy. He urges fans to find their name and find their voice by speaking yourself.",
+      "headline": "Kim Nam Joon: BTS has become artists, performing in huge stadiums",
+      "gist": "BTS",
+      "start": 52340,
+      "end": 375890
+    }
+  ],
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": true,
+  "sentiment_analysis_results": [
+    {
+      "sentiment": "POSITIVE",
+      "text": "Thank you, Mr. Secretary General, UNICEF Executive Director, and all the excellencies and distinguished guests from across the world.",
+      "start": 1760,
+      "end": 8720,
+      "confidence": 0.90661585,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "My name is Kim Namjoon, also known as rm, the leader of the group bts.",
+      "start": 10240,
+      "end": 14400,
+      "confidence": 0.71316147,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "It is an incredible honor to be invited to an occasion with such significance for today's young generation.",
+      "start": 15360,
+      "end": 20960,
+      "confidence": 0.98947173,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "Last November, BTS launched the Love My Symph campaign with unicef.",
+      "start": 22080,
+      "end": 26720,
+      "confidence": 0.54195315,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "Building on our belief that true love first begins with loving myself, we've been partnering with UNICEF's End Violence Program to protect children and young people all over the world from violence.",
+      "start": 27210,
+      "end": 39290,
+      "confidence": 0.7576909,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "And our fans have become a major part of this campaign.",
+      "start": 40410,
+      "end": 43530,
+      "confidence": 0.59588337,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "With their action and with their enthusiasm, we truly have the best fans in the world.",
+      "start": 43770,
+      "end": 49450,
+      "confidence": 0.9895545,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "And I'd like to begin by talking about myself.",
+      "start": 52340,
+      "end": 54580,
+      "confidence": 0.79973197,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "I was born in Ilsan, a city near Seoul, South Korea.",
+      "start": 56180,
+      "end": 60340,
+      "confidence": 0.8967096,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "It is a really beautiful place with a lake, hills, and even an annual flower festival.",
+      "start": 61300,
+      "end": 66980,
+      "confidence": 0.98203295,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "I spent a very happy childhood there and I was just an ordinary boy.",
+      "start": 67300,
+      "end": 72020,
+      "confidence": 0.9530548,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "I used to look up at the night sky, wonder and I used to dream the dreams of a boy.",
+      "start": 73220,
+      "end": 79140,
+      "confidence": 0.637636,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "I used to imagine that I was a superhero who could save the world.",
+      "start": 80340,
+      "end": 84180,
+      "confidence": 0.51543057,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "And in an intro to one of our early albums, there's a line that says.",
+      "start": 86340,
+      "end": 90820,
+      "confidence": 0.86711955,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "My heart stopped when I was maybe 9 or 10.",
+      "start": 91380,
+      "end": 94820,
+      "confidence": 0.51561546,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "Looking back, I think that's when I began to worry about what other people thought of me and starting seeing myself through their eyes.",
+      "start": 96180,
+      "end": 104340,
+      "confidence": 0.5510897,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "I stopped looking up at the night skies, the stars.",
+      "start": 105750,
+      "end": 110310,
+      "confidence": 0.61610246,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "I stopped daydreaming.",
+      "start": 110870,
+      "end": 112710,
+      "confidence": 0.58178943,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEGATIVE",
+      "text": "Instead, I just tried to jam myself into the malls that other people made.",
+      "start": 113910,
+      "end": 119270,
+      "confidence": 0.6478212,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "Soon I began to shut out my own voice and started to listen to the voices of others.",
+      "start": 121030,
+      "end": 126230,
+      "confidence": 0.7600598,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEGATIVE",
+      "text": "No one called out my name.",
+      "start": 128070,
+      "end": 129750,
+      "confidence": 0.56131953,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "Neither did I.",
+      "start": 130880,
+      "end": 131600,
+      "confidence": 0.5517988,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEGATIVE",
+      "text": "My heart stopped and my eyes closed shut.",
+      "start": 133200,
+      "end": 136160,
+      "confidence": 0.78839827,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "So like this I.",
+      "start": 137840,
+      "end": 140400,
+      "confidence": 0.8151044,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEGATIVE",
+      "text": "We all lost our names.",
+      "start": 141200,
+      "end": 144080,
+      "confidence": 0.6078707,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "We became like ghosts.",
+      "start": 145280,
+      "end": 146720,
+      "confidence": 0.49015838,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "But I had one century and that was music.",
+      "start": 149440,
+      "end": 152000,
+      "confidence": 0.6777756,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "There was a small voice inside of me that said, wake up man and listen to yourself.",
+      "start": 153120,
+      "end": 158220,
+      "confidence": 0.8017941,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "But it took me quite a long time to hear music calling my real name.",
+      "start": 159420,
+      "end": 163740,
+      "confidence": 0.50779915,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "Even after making the decision to join bts, there were a lot of hurdles.",
+      "start": 165180,
+      "end": 169580,
+      "confidence": 0.59970754,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEGATIVE",
+      "text": "Some people might not believe, but most people thought we were hopeless.",
+      "start": 170220,
+      "end": 173980,
+      "confidence": 0.6333546,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEGATIVE",
+      "text": "And sometimes I just wanted to quit.",
+      "start": 175260,
+      "end": 177260,
+      "confidence": 0.64444053,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "But I think I was very lucky that I didn't give it all up.",
+      "start": 179180,
+      "end": 182220,
+      "confidence": 0.868723,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "And I'm sure that I.",
+      "start": 185350,
+      "end": 187110,
+      "confidence": 0.6752279,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEGATIVE",
+      "text": "And we will keep stumbling and falling like this.",
+      "start": 187590,
+      "end": 191270,
+      "confidence": 0.82838225,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "BTS has become artists, performing in those huge stadiums and selling millions of albums right now.",
+      "start": 193990,
+      "end": 200150,
+      "confidence": 0.8776312,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "But I am still an ordinary 24 year old guy.",
+      "start": 200230,
+      "end": 204390,
+      "confidence": 0.5882168,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "If there's anything that I've achieved, it was only possible that I have my other bts.",
+      "start": 205830,
+      "end": 211650,
+      "confidence": 0.8074803,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "Members right by my side.",
+      "start": 211650,
+      "end": 213730,
+      "confidence": 0.4935251,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "And because of the love and the support that our army fans all over the world made for us.",
+      "start": 214530,
+      "end": 220610,
+      "confidence": 0.95801115,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "And maybe I made a mistake yesterday, but yesterday's me is still me.",
+      "start": 222530,
+      "end": 228450,
+      "confidence": 0.63080484,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "Today I am who I am with all, all of my faults and my mistakes.",
+      "start": 230130,
+      "end": 235760,
+      "confidence": 0.49978772,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "Tomorrow, I might be a tiny bit wiser.",
+      "start": 237360,
+      "end": 241920,
+      "confidence": 0.8325817,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "And that would be me too.",
+      "start": 242640,
+      "end": 244000,
+      "confidence": 0.77641875,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEGATIVE",
+      "text": "These faults and mistakes are what I am.",
+      "start": 245680,
+      "end": 249120,
+      "confidence": 0.8124249,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "Making up the brightest stars in the constellation of my life.",
+      "start": 249760,
+      "end": 252960,
+      "confidence": 0.9280107,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "I have come to love myself for who I am, for who I was, and for who I hope to become.",
+      "start": 254560,
+      "end": 261710,
+      "confidence": 0.9031314,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "I'd like to say the one last thing.",
+      "start": 264430,
+      "end": 266590,
+      "confidence": 0.858367,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "After releasing our Love albums and launching the Love Myself campaign, we started to hear remarkable stories from our fans all over the world.",
+      "start": 268510,
+      "end": 277230,
+      "confidence": 0.93610114,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "How our message helped them overcome their hardships in life and start loving themselves.",
+      "start": 277470,
+      "end": 283070,
+      "confidence": 0.85418594,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "Those stories constantly remind us of of our responsibility.",
+      "start": 284350,
+      "end": 287620,
+      "confidence": 0.76991165,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "So let's take all one more step.",
+      "start": 290180,
+      "end": 293140,
+      "confidence": 0.49721467,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "We have learned to love ourselves.",
+      "start": 294420,
+      "end": 296660,
+      "confidence": 0.63368475,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "So now I urge you to speak yourself.",
+      "start": 297620,
+      "end": 300900,
+      "confidence": 0.82378817,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "I like to ask all of you.",
+      "start": 304420,
+      "end": 306500,
+      "confidence": 0.5006055,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "What is your name?",
+      "start": 307860,
+      "end": 308820,
+      "confidence": 0.79511845,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "What excites you and makes your heart beat?",
+      "start": 310820,
+      "end": 313470,
+      "confidence": 0.78425646,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "Tell me your story.",
+      "start": 314750,
+      "end": 315710,
+      "confidence": 0.77710044,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "I want to hear your voice.",
+      "start": 317070,
+      "end": 318590,
+      "confidence": 0.54487693,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "I want to hear your conviction.",
+      "start": 318830,
+      "end": 320910,
+      "confidence": 0.7225646,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "No matter who you are, where you're from, your skin color, your gender identity, just speak yourself.",
+      "start": 322430,
+      "end": 330590,
+      "confidence": 0.73348135,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "Find your name and find your voice by speaking yourself.",
+      "start": 332510,
+      "end": 336030,
+      "confidence": 0.73875976,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "I'm Kim Nam Joon and also RM of bts.",
+      "start": 338440,
+      "end": 342200,
+      "confidence": 0.70997006,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "I'm an idol and I'm an artist from a small town in Korea.",
+      "start": 343560,
+      "end": 348120,
+      "confidence": 0.5509916,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEGATIVE",
+      "text": "Like most people, I've made many and plenty mistakes in my life.",
+      "start": 349400,
+      "end": 354199,
+      "confidence": 0.8511235,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEGATIVE",
+      "text": "I have many faults and I have many more fears.",
+      "start": 355800,
+      "end": 359320,
+      "confidence": 0.88131756,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "But I'm going to embrace myself as hard as I can.",
+      "start": 360040,
+      "end": 363000,
+      "confidence": 0.79838234,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "And I'm starting to love myself gradually, just little by little.",
+      "start": 363890,
+      "end": 367650,
+      "confidence": 0.8952161,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "What is your name?",
+      "start": 370050,
+      "end": 371010,
+      "confidence": 0.79511845,
+      "speaker": null
+    },
+    {
+      "sentiment": "NEUTRAL",
+      "text": "Speak yourself.",
+      "start": 372850,
+      "end": 373810,
+      "confidence": 0.70401,
+      "speaker": null
+    },
+    {
+      "sentiment": "POSITIVE",
+      "text": "Thank you very much.",
+      "start": 375010,
+      "end": 375890,
+      "confidence": 0.95996314,
+      "speaker": null
+    }
+  ],
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 317658,
+  "token_id": 317658
+}
