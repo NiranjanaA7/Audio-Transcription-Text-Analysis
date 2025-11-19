@@ -58,6 +58,8 @@ pip install -r requirements.txt
 
 2. Add your **API key** into `lib/API_KEY.py`
 3. Run the notebook cells in order
+
+
 ##**Final dashboard**
 <img width="857" height="777" alt="image" src="https://github.com/user-attachments/assets/4fbb302f-ba3b-46dd-99d7-305b1ba6dedd" />
 
