@@ -59,4 +59,4 @@ pip install -r requirements.txt
 2. Add your **API key** into `lib/API_KEY.py`
 3. Run the notebook cells in order
 
-
+https://github.com/NiranjanaA7/Audio-Transcription-Text-Analysis/blob/main/image/dashboard.png
